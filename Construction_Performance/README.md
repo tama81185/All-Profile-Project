@@ -1,6 +1,6 @@
 # Construction Performance Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This dashboard provides executive-level insights into:
 
@@ -38,4 +38,4 @@ This dashboard provides executive-level insights into:
 
 ---
 
-Author: Your Name
+Author:Tama Roy Smriti
