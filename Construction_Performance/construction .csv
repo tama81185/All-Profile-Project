@@ -1,0 +1,501 @@
+Project_ID,Project_Name,Region,Project_Type,Phase,Status,Department,Contractor,Start_Date,End_Date,Month_Name,Month_Number,Budget,Cost,Safety_Incidents,Issue_Resolution_Time_Days
+P0001,Project_1,North,Residential,Finishing,In Progress,Engineering,SafeBuild,2025-03-13,2025-11-16,March,3,414947,450982,8,2
+P0002,Project_2,West,Residential,Design,Completed,Engineering,SafeBuild,2025-09-16,2026-04-18,September,9,255649,267520,8,7
+P0003,Project_3,South,Commercial,Finishing,In Progress,Engineering,UrbanCon,2025-12-24,2026-06-10,December,12,913557,865371,3,13
+P0004,Project_4,East,Residential,Design,In Progress,Engineering,PrimeBuild,2025-06-26,2026-01-26,June,6,754740,854739,7,9
+P0005,Project_5,North,Commercial,Design,Pending,Safety,NextGen Infra,2025-07-05,2026-01-28,July,7,603258,661532,0,11
+P0006,Project_6,South,Commercial,Design,Completed,Engineering,Skyline Co,2025-05-23,2025-11-15,May,5,1533126,1750735,2,6
+P0007,Project_7,East,Residential,Finishing,In Progress,Procurement,BuildCorp,2025-11-08,2026-06-18,November,11,558903,579553,3,3
+P0008,Project_8,West,Commercial,Construction,Pending,Procurement,BlueRock,2025-04-23,2025-12-14,April,4,880070,1007678,0,4
+P0009,Project_9,North,Commercial,Construction,In Progress,Engineering,SafeBuild,2025-10-18,2026-07-29,October,10,1705575,1637586,7,7
+P0010,Project_10,West,Residential,Construction,Completed,Engineering,BlueRock,2025-10-03,2026-02-07,October,10,1766601,1863066,6,6
+P0011,Project_11,South,Residential,Finishing,In Progress,Engineering,ABC Ltd,2025-02-26,2025-06-05,February,2,1515849,1373349,6,10
+P0012,Project_12,North,Commercial,Construction,Pending,Safety,BlueRock,2025-05-09,2025-11-26,May,5,224077,243818,1,11
+P0013,Project_13,East,Industrial,Construction,Completed,Safety,Skyline Co,2025-03-22,2025-09-14,March,3,206805,244823,4,9
+P0014,Project_14,South,Industrial,Design,Pending,Safety,BlueRock,2025-11-08,2026-02-26,November,11,520527,510569,2,9
+P0015,Project_15,North,Industrial,Construction,In Progress,Engineering,BuildCorp,2025-07-05,2026-04-15,July,7,1944129,2201475,3,1
+P0016,Project_16,South,Industrial,Design,Completed,Procurement,Titan Builders,2025-02-05,2025-10-17,February,2,1317165,1472645,2,11
+P0017,Project_17,West,Industrial,Design,In Progress,Procurement,NextGen Infra,2025-08-05,2025-11-27,August,8,1330985,1483173,3,12
+P0018,Project_18,East,Commercial,Finishing,Pending,Safety,Titan Builders,2025-09-22,2026-03-16,September,9,453764,425071,1,6
+P0019,Project_19,North,Industrial,Finishing,Completed,Procurement,SafeBuild,2025-01-04,2025-03-23,January,1,1684450,1803853,3,2
+P0020,Project_20,North,Commercial,Design,Pending,Engineering,MegaConstruct,2025-12-09,2026-06-11,December,12,649287,674435,7,4
+P0021,Project_21,West,Commercial,Design,Completed,Engineering,Skyline Co,2025-07-01,2025-12-16,July,7,1062143,1076437,0,11
+P0022,Project_22,North,Residential,Construction,Pending,Safety,BuildCorp,2025-05-08,2025-08-25,May,5,598896,621474,2,7
+P0023,Project_23,South,Commercial,Construction,Completed,Engineering,Titan Builders,2025-10-09,2026-01-02,October,10,306091,330042,8,14
+P0024,Project_24,North,Residential,Design,Completed,Safety,Titan Builders,2025-09-04,2025-12-27,September,9,1041042,1213704,2,7
+P0025,Project_25,North,Commercial,Construction,In Progress,Safety,Skyline Co,2025-12-23,2026-08-27,December,12,1842828,1924868,7,3
+P0026,Project_26,South,Commercial,Design,Completed,Procurement,BlueRock,2025-02-01,2025-10-10,February,2,857676,746184,7,9
+P0027,Project_27,South,Residential,Finishing,Completed,Engineering,BuildCorp,2025-11-01,2026-01-17,November,11,1616023,1861071,6,2
+P0028,Project_28,South,Industrial,Finishing,Completed,Procurement,BuildCorp,2025-08-03,2026-03-19,August,8,1424049,1492160,5,15
+P0029,Project_29,East,Residential,Finishing,Pending,Safety,SafeBuild,2025-05-16,2025-10-24,May,5,474471,514844,4,8
+P0030,Project_30,East,Residential,Design,In Progress,Procurement,NextGen Infra,2025-02-21,2025-05-10,February,2,1327501,1227412,4,3
+P0031,Project_31,East,Residential,Design,In Progress,Safety,UrbanCon,2025-08-13,2026-05-13,August,8,1339210,1468094,8,1
+P0032,Project_32,East,Industrial,Design,Completed,Safety,BuildCorp,2025-02-24,2025-11-01,February,2,1360194,1230168,4,10
+P0033,Project_33,South,Industrial,Construction,Completed,Procurement,MegaConstruct,2025-09-16,2026-03-20,September,9,726639,847891,0,2
+P0034,Project_34,West,Commercial,Design,Completed,Safety,UrbanCon,2025-11-23,2026-03-30,November,11,538861,597828,8,12
+P0035,Project_35,West,Industrial,Design,Completed,Engineering,UrbanCon,2025-10-07,2025-12-15,October,10,1950272,1909756,8,3
+P0036,Project_36,West,Residential,Design,In Progress,Safety,ABC Ltd,2025-07-03,2025-10-24,July,7,1630397,1528228,1,6
+P0037,Project_37,West,Industrial,Finishing,Completed,Engineering,UrbanCon,2025-04-01,2026-01-11,April,4,1064644,914183,5,13
+P0038,Project_38,West,Industrial,Finishing,Completed,Safety,UrbanCon,2025-12-26,2026-03-23,December,12,1002248,1157855,7,4
+P0039,Project_39,South,Commercial,Construction,In Progress,Engineering,SafeBuild,2025-01-13,2025-08-29,January,1,605022,598646,4,14
+P0040,Project_40,North,Commercial,Construction,Pending,Procurement,Skyline Co,2025-12-14,2026-09-15,December,12,1324525,1279361,0,2
+P0041,Project_41,East,Residential,Finishing,In Progress,Engineering,BuildCorp,2025-11-02,2026-04-22,November,11,924958,1022070,5,7
+P0042,Project_42,North,Commercial,Finishing,Completed,Safety,ABC Ltd,2025-12-29,2026-06-18,December,12,203546,210053,8,11
+P0043,Project_43,South,Commercial,Construction,Completed,Procurement,PrimeBuild,2025-11-16,2026-04-05,November,11,1591224,1824824,4,9
+P0044,Project_44,East,Industrial,Construction,In Progress,Safety,MegaConstruct,2025-10-11,2026-01-11,October,10,602317,600604,6,11
+P0045,Project_45,South,Industrial,Finishing,In Progress,Safety,BlueRock,2025-01-01,2025-05-18,January,1,801701,740422,5,8
+P0046,Project_46,West,Commercial,Finishing,Completed,Procurement,Titan Builders,2025-03-28,2025-11-11,March,3,377829,358682,5,2
+P0047,Project_47,South,Industrial,Construction,Completed,Engineering,UrbanCon,2025-01-13,2025-03-25,January,1,713472,852154,1,8
+P0048,Project_48,West,Industrial,Finishing,Completed,Procurement,Skyline Co,2025-09-11,2026-02-20,September,9,711672,641679,0,15
+P0049,Project_49,North,Commercial,Design,Completed,Procurement,BlueRock,2025-08-26,2025-11-06,August,8,1368964,1283019,1,8
+P0050,Project_50,South,Commercial,Finishing,Pending,Procurement,NextGen Infra,2025-06-12,2026-02-20,June,6,1128143,1200827,8,7
+P0051,Project_51,West,Residential,Finishing,In Progress,Safety,MegaConstruct,2025-05-07,2026-02-06,May,5,1537272,1455887,8,8
+P0052,Project_52,South,Commercial,Construction,Completed,Procurement,MegaConstruct,2025-05-01,2025-09-07,May,5,904323,869866,8,2
+P0053,Project_53,South,Residential,Design,In Progress,Procurement,UrbanCon,2025-12-28,2026-04-21,December,12,334697,333091,5,9
+P0054,Project_54,West,Commercial,Design,Completed,Safety,Skyline Co,2025-10-27,2026-06-22,October,10,240961,277070,6,8
+P0055,Project_55,North,Commercial,Construction,In Progress,Safety,BlueRock,2025-10-07,2026-06-28,October,10,1465112,1705733,7,4
+P0056,Project_56,East,Commercial,Construction,Completed,Safety,PrimeBuild,2025-12-09,2026-07-30,December,12,1873825,1857917,2,14
+P0057,Project_57,West,Residential,Finishing,Pending,Engineering,Skyline Co,2025-10-31,2026-05-23,October,10,1590411,1366935,6,3
+P0058,Project_58,West,Residential,Design,In Progress,Safety,PrimeBuild,2025-04-19,2025-10-12,April,4,885445,857221,6,5
+P0059,Project_59,West,Commercial,Design,In Progress,Engineering,BlueRock,2025-01-27,2025-06-25,January,1,670227,722203,0,13
+P0060,Project_60,North,Residential,Design,Completed,Procurement,UrbanCon,2025-05-03,2025-08-03,May,5,1193129,1293722,3,8
+P0061,Project_61,East,Commercial,Design,Pending,Procurement,BuildCorp,2025-03-25,2025-08-11,March,3,426699,449117,4,10
+P0062,Project_62,West,Commercial,Finishing,Completed,Engineering,NextGen Infra,2025-12-20,2026-09-18,December,12,1515422,1416915,4,14
+P0063,Project_63,North,Industrial,Design,In Progress,Procurement,Skyline Co,2025-12-05,2026-05-08,December,12,344612,353946,5,1
+P0064,Project_64,West,Commercial,Design,In Progress,Safety,Titan Builders,2025-12-29,2026-04-07,December,12,1113282,1014921,8,11
+P0065,Project_65,East,Industrial,Finishing,In Progress,Safety,Skyline Co,2025-10-31,2026-03-08,October,10,875921,1005644,1,5
+P0066,Project_66,West,Residential,Construction,Pending,Procurement,Skyline Co,2025-06-22,2025-08-28,June,6,1236635,1419451,2,8
+P0067,Project_67,South,Commercial,Construction,In Progress,Safety,NextGen Infra,2025-12-26,2026-10-07,December,12,779377,814080,8,4
+P0068,Project_68,North,Residential,Finishing,In Progress,Safety,BlueRock,2025-05-04,2025-12-26,May,5,1198439,1289599,7,8
+P0069,Project_69,North,Residential,Construction,Completed,Safety,SafeBuild,2025-06-06,2026-01-21,June,6,1419610,1390021,8,9
+P0070,Project_70,East,Commercial,Finishing,Pending,Safety,PrimeBuild,2025-12-26,2026-06-20,December,12,768152,735365,3,2
+P0071,Project_71,South,Commercial,Design,Pending,Procurement,UrbanCon,2025-04-09,2025-08-02,April,4,1748966,1783017,8,10
+P0072,Project_72,East,Residential,Design,In Progress,Engineering,PrimeBuild,2025-04-02,2025-08-17,April,4,229671,252134,2,5
+P0073,Project_73,North,Residential,Finishing,In Progress,Procurement,UrbanCon,2025-11-23,2026-09-01,November,11,1778719,1817508,0,10
+P0074,Project_74,East,Commercial,Construction,In Progress,Safety,UrbanCon,2025-01-27,2025-05-31,January,1,1201870,1069580,1,7
+P0075,Project_75,West,Residential,Finishing,Pending,Procurement,ABC Ltd,2025-03-19,2025-06-25,March,3,1901088,1990427,4,2
+P0076,Project_76,South,Residential,Finishing,In Progress,Procurement,NextGen Infra,2025-11-13,2026-03-10,November,11,1826747,1886847,7,15
+P0077,Project_77,West,Commercial,Finishing,In Progress,Safety,NextGen Infra,2025-11-14,2026-01-28,November,11,1478488,1753543,1,13
+P0078,Project_78,South,Industrial,Design,In Progress,Procurement,BuildCorp,2025-03-22,2025-07-21,March,3,564513,588898,2,1
+P0079,Project_79,West,Commercial,Finishing,Pending,Safety,MegaConstruct,2025-01-17,2025-05-16,January,1,804199,882555,7,2
+P0080,Project_80,South,Commercial,Finishing,Pending,Procurement,SafeBuild,2025-08-06,2025-11-03,August,8,1342030,1246320,2,15
+P0081,Project_81,East,Residential,Design,Completed,Engineering,MegaConstruct,2025-11-01,2026-07-10,November,11,1928557,2023485,4,8
+P0082,Project_82,North,Commercial,Finishing,In Progress,Procurement,Skyline Co,2025-05-20,2025-11-24,May,5,1332423,1362839,1,10
+P0083,Project_83,North,Commercial,Finishing,In Progress,Procurement,MegaConstruct,2025-01-14,2025-04-07,January,1,680089,807040,0,13
+P0084,Project_84,East,Industrial,Design,Completed,Safety,BlueRock,2025-11-30,2026-05-22,November,11,783336,715594,6,11
+P0085,Project_85,West,Residential,Construction,In Progress,Safety,PrimeBuild,2025-06-14,2026-01-31,June,6,419361,482351,5,7
+P0086,Project_86,West,Commercial,Finishing,In Progress,Procurement,ABC Ltd,2025-08-21,2025-11-11,August,8,859590,806587,1,13
+P0087,Project_87,West,Industrial,Design,Pending,Procurement,Titan Builders,2025-07-31,2025-10-12,July,7,593389,612053,7,11
+P0088,Project_88,West,Residential,Design,In Progress,Procurement,UrbanCon,2025-05-28,2025-11-16,May,5,1664336,1697038,0,11
+P0089,Project_89,South,Industrial,Design,In Progress,Procurement,ABC Ltd,2025-10-10,2026-03-23,October,10,395473,367254,1,8
+P0090,Project_90,North,Industrial,Design,In Progress,Procurement,MegaConstruct,2025-09-18,2026-05-16,September,9,773413,769872,7,8
+P0091,Project_91,South,Commercial,Finishing,Completed,Safety,SafeBuild,2025-11-03,2026-05-12,November,11,1765088,2043555,1,5
+P0092,Project_92,West,Commercial,Finishing,In Progress,Engineering,MegaConstruct,2025-06-02,2026-03-03,June,6,1430897,1506696,7,14
+P0093,Project_93,South,Commercial,Finishing,In Progress,Safety,PrimeBuild,2025-10-10,2026-06-22,October,10,1339655,1315572,5,14
+P0094,Project_94,South,Industrial,Design,Pending,Safety,SafeBuild,2025-07-30,2025-10-09,July,7,867264,963223,6,7
+P0095,Project_95,South,Commercial,Design,Completed,Procurement,NextGen Infra,2025-06-19,2026-03-28,June,6,410479,474500,7,2
+P0096,Project_96,West,Residential,Finishing,Completed,Safety,UrbanCon,2025-02-08,2025-08-07,February,2,1838977,2186950,5,10
+P0097,Project_97,West,Industrial,Design,In Progress,Procurement,BlueRock,2025-07-14,2025-12-02,July,7,1514493,1668291,7,14
+P0098,Project_98,North,Industrial,Design,Completed,Procurement,MegaConstruct,2025-04-27,2026-01-03,April,4,389539,390275,1,13
+P0099,Project_99,North,Commercial,Design,Pending,Safety,ABC Ltd,2025-01-24,2025-06-16,January,1,1869633,1625910,5,6
+P0100,Project_100,West,Residential,Design,Pending,Safety,NextGen Infra,2025-12-16,2026-09-04,December,12,577606,525329,1,10
+P0101,Project_101,West,Industrial,Finishing,Completed,Safety,NextGen Infra,2025-03-15,2025-07-12,March,3,1167101,1252610,7,5
+P0102,Project_102,North,Commercial,Construction,Pending,Procurement,UrbanCon,2025-02-07,2025-07-30,February,2,924703,1105647,4,11
+P0103,Project_103,West,Industrial,Construction,In Progress,Safety,SafeBuild,2025-07-16,2026-04-20,July,7,1213360,1076649,6,10
+P0104,Project_104,East,Industrial,Construction,Pending,Safety,ABC Ltd,2025-12-04,2026-05-14,December,12,775627,661481,0,15
+P0105,Project_105,West,Commercial,Design,Pending,Safety,SafeBuild,2025-11-22,2026-03-10,November,11,1502103,1408551,2,11
+P0106,Project_106,North,Industrial,Finishing,Completed,Safety,Titan Builders,2025-01-18,2025-08-14,January,1,965169,1067791,1,15
+P0107,Project_107,East,Commercial,Finishing,In Progress,Engineering,SafeBuild,2025-03-09,2025-11-25,March,3,1331220,1539903,5,9
+P0108,Project_108,East,Residential,Construction,In Progress,Safety,PrimeBuild,2025-02-28,2025-08-26,February,2,357914,321859,3,14
+P0109,Project_109,West,Industrial,Construction,Completed,Safety,ABC Ltd,2025-05-16,2025-11-29,May,5,459184,463397,4,10
+P0110,Project_110,West,Industrial,Construction,Completed,Procurement,SafeBuild,2025-08-30,2025-11-04,August,8,1499283,1738391,8,6
+P0111,Project_111,South,Industrial,Design,Pending,Safety,MegaConstruct,2025-11-29,2026-05-12,November,11,444687,399738,0,5
+P0112,Project_112,West,Residential,Design,Completed,Procurement,UrbanCon,2025-07-18,2026-01-10,July,7,978067,1060880,8,7
+P0113,Project_113,South,Commercial,Finishing,Completed,Safety,NextGen Infra,2025-07-28,2026-05-24,July,7,786657,677666,5,4
+P0114,Project_114,West,Commercial,Design,In Progress,Engineering,PrimeBuild,2025-10-06,2026-07-23,October,10,1552299,1514323,6,5
+P0115,Project_115,South,Residential,Construction,Completed,Procurement,SafeBuild,2025-11-25,2026-07-06,November,11,1452305,1728072,0,13
+P0116,Project_116,East,Residential,Design,Pending,Engineering,BuildCorp,2025-10-11,2026-02-01,October,10,1429734,1323337,3,6
+P0117,Project_117,South,Industrial,Design,In Progress,Engineering,UrbanCon,2025-10-04,2026-02-05,October,10,1874604,1707902,0,3
+P0118,Project_118,North,Commercial,Design,Pending,Safety,ABC Ltd,2025-03-31,2025-08-05,March,3,309888,277153,6,9
+P0119,Project_119,North,Industrial,Design,In Progress,Safety,PrimeBuild,2025-09-20,2026-04-19,September,9,428702,432218,3,10
+P0120,Project_120,North,Industrial,Finishing,Pending,Safety,Titan Builders,2025-11-26,2026-02-01,November,11,327560,392909,6,7
+P0121,Project_121,North,Commercial,Finishing,In Progress,Engineering,BuildCorp,2025-06-14,2026-01-15,June,6,511078,446165,4,10
+P0122,Project_122,East,Commercial,Finishing,Pending,Safety,Titan Builders,2025-09-16,2026-04-18,September,9,1102193,975123,1,14
+P0123,Project_123,South,Commercial,Construction,Completed,Safety,PrimeBuild,2025-08-21,2026-01-30,August,8,1072393,1185385,5,7
+P0124,Project_124,East,Industrial,Construction,In Progress,Engineering,Titan Builders,2025-02-04,2025-04-28,February,2,1944352,1710791,6,2
+P0125,Project_125,East,Residential,Finishing,Completed,Procurement,BlueRock,2025-10-15,2026-03-08,October,10,1605119,1433019,5,14
+P0126,Project_126,West,Industrial,Design,In Progress,Procurement,MegaConstruct,2025-06-30,2025-09-24,June,6,1411982,1450944,2,11
+P0127,Project_127,West,Residential,Design,In Progress,Procurement,PrimeBuild,2025-02-28,2025-11-10,February,2,784199,824142,6,14
+P0128,Project_128,North,Industrial,Finishing,Pending,Safety,ABC Ltd,2025-04-03,2025-08-10,April,4,1673666,1869222,5,6
+P0129,Project_129,North,Residential,Design,Pending,Procurement,Skyline Co,2025-02-05,2025-05-12,February,2,1753924,1879522,0,2
+P0130,Project_130,South,Commercial,Construction,In Progress,Safety,UrbanCon,2025-07-09,2025-11-25,July,7,1713296,1650818,1,15
+P0131,Project_131,North,Residential,Design,Pending,Engineering,BuildCorp,2025-05-20,2025-11-09,May,5,1588186,1585653,7,7
+P0132,Project_132,East,Residential,Finishing,Completed,Safety,Skyline Co,2025-02-26,2025-07-08,February,2,1622326,1764231,7,9
+P0133,Project_133,East,Residential,Design,In Progress,Procurement,ABC Ltd,2025-01-04,2025-04-26,January,1,832122,982622,2,13
+P0134,Project_134,East,Commercial,Construction,Completed,Engineering,Titan Builders,2025-08-09,2025-11-21,August,8,470922,462950,3,9
+P0135,Project_135,East,Residential,Construction,Pending,Engineering,Skyline Co,2025-01-10,2025-07-06,January,1,363289,418413,6,10
+P0136,Project_136,West,Industrial,Finishing,In Progress,Safety,BuildCorp,2025-07-27,2025-09-30,July,7,881088,801927,7,14
+P0137,Project_137,East,Residential,Construction,Completed,Engineering,Skyline Co,2025-10-29,2026-04-09,October,10,1298829,1139756,4,12
+P0138,Project_138,East,Residential,Construction,Completed,Engineering,BlueRock,2025-11-21,2026-02-18,November,11,1312758,1350149,5,6
+P0139,Project_139,South,Residential,Design,Completed,Safety,SafeBuild,2025-03-30,2025-10-30,March,3,520591,581018,1,3
+P0140,Project_140,West,Commercial,Finishing,Pending,Safety,NextGen Infra,2025-11-26,2026-07-06,November,11,1509717,1454042,5,3
+P0141,Project_141,West,Residential,Construction,In Progress,Procurement,MegaConstruct,2025-05-21,2025-12-18,May,5,317801,309277,1,5
+P0142,Project_142,West,Commercial,Design,Completed,Safety,MegaConstruct,2025-02-09,2025-09-22,February,2,1993680,1757635,8,7
+P0143,Project_143,West,Industrial,Finishing,Pending,Engineering,Titan Builders,2025-10-20,2026-06-03,October,10,594766,572482,7,9
+P0144,Project_144,South,Residential,Construction,Completed,Safety,BuildCorp,2025-09-16,2026-04-29,September,9,561882,485297,7,8
+P0145,Project_145,South,Commercial,Construction,In Progress,Safety,Skyline Co,2025-06-23,2026-02-11,June,6,1453857,1262424,5,2
+P0146,Project_146,East,Residential,Finishing,Pending,Safety,MegaConstruct,2025-05-10,2026-01-10,May,5,1985863,2144329,2,6
+P0147,Project_147,North,Industrial,Finishing,Completed,Safety,MegaConstruct,2025-12-02,2026-07-28,December,12,1588598,1568240,1,5
+P0148,Project_148,West,Industrial,Construction,Completed,Procurement,BlueRock,2025-02-17,2025-09-30,February,2,1606048,1603144,5,1
+P0149,Project_149,East,Commercial,Design,Completed,Safety,Titan Builders,2025-04-09,2025-08-04,April,4,488495,441712,4,14
+P0150,Project_150,North,Industrial,Finishing,Pending,Procurement,ABC Ltd,2025-12-05,2026-04-30,December,12,1807063,1926891,6,3
+P0151,Project_151,South,Residential,Finishing,Pending,Engineering,Titan Builders,2025-01-23,2025-07-07,January,1,963991,1047595,3,8
+P0152,Project_152,East,Industrial,Construction,Completed,Procurement,SafeBuild,2025-06-08,2026-03-02,June,6,1844943,1871059,3,6
+P0153,Project_153,West,Commercial,Construction,In Progress,Procurement,BlueRock,2025-08-03,2025-11-12,August,8,1913145,1759891,2,14
+P0154,Project_154,East,Residential,Finishing,In Progress,Safety,BlueRock,2025-02-22,2025-10-22,February,2,1973964,2034304,1,5
+P0155,Project_155,North,Residential,Construction,In Progress,Procurement,UrbanCon,2025-08-12,2025-11-03,August,8,665647,756072,5,15
+P0156,Project_156,North,Commercial,Design,In Progress,Procurement,PrimeBuild,2025-05-01,2025-10-06,May,5,371139,364168,0,6
+P0157,Project_157,North,Industrial,Finishing,In Progress,Engineering,UrbanCon,2025-01-20,2025-06-02,January,1,1940136,1969934,2,13
+P0158,Project_158,West,Commercial,Finishing,Completed,Engineering,ABC Ltd,2025-05-12,2025-09-04,May,5,1951044,1760489,8,7
+P0159,Project_159,North,Commercial,Design,In Progress,Engineering,ABC Ltd,2025-05-03,2025-10-17,May,5,1539978,1736886,7,2
+P0160,Project_160,North,Commercial,Finishing,Pending,Engineering,BlueRock,2025-10-22,2026-02-20,October,10,1706896,1536636,6,1
+P0161,Project_161,East,Residential,Finishing,In Progress,Engineering,BuildCorp,2025-09-26,2026-02-25,September,9,341933,404743,8,9
+P0162,Project_162,North,Commercial,Construction,Completed,Procurement,Skyline Co,2025-07-11,2025-11-12,July,7,1767236,1512196,1,6
+P0163,Project_163,South,Industrial,Finishing,Pending,Engineering,NextGen Infra,2025-06-20,2025-09-22,June,6,292978,285156,5,14
+P0164,Project_164,South,Industrial,Construction,Pending,Safety,UrbanCon,2025-03-11,2025-05-26,March,3,1701655,1908689,7,1
+P0165,Project_165,East,Residential,Design,Completed,Engineering,PrimeBuild,2025-06-08,2025-12-16,June,6,1035136,1238222,8,8
+P0166,Project_166,East,Residential,Finishing,Completed,Safety,PrimeBuild,2025-01-25,2025-11-02,January,1,1575168,1521885,1,13
+P0167,Project_167,East,Commercial,Construction,Pending,Safety,Skyline Co,2025-06-23,2025-10-08,June,6,1240613,1355027,5,15
+P0168,Project_168,East,Residential,Finishing,In Progress,Engineering,Skyline Co,2025-11-05,2026-08-02,November,11,578444,602111,5,2
+P0169,Project_169,North,Commercial,Finishing,In Progress,Safety,Titan Builders,2025-11-05,2026-07-06,November,11,1093630,993372,7,6
+P0170,Project_170,West,Residential,Finishing,In Progress,Procurement,Skyline Co,2025-05-21,2025-12-30,May,5,1859849,2197907,1,11
+P0171,Project_171,West,Commercial,Finishing,Pending,Procurement,UrbanCon,2025-01-16,2025-04-22,January,1,1979788,2103822,7,1
+P0172,Project_172,South,Residential,Design,Pending,Safety,PrimeBuild,2025-07-16,2026-02-06,July,7,267916,284468,7,6
+P0173,Project_173,East,Commercial,Design,Pending,Engineering,BlueRock,2025-07-07,2025-12-15,July,7,859314,925778,3,2
+P0174,Project_174,North,Industrial,Design,In Progress,Procurement,Skyline Co,2025-10-15,2026-01-13,October,10,748985,839790,7,4
+P0175,Project_175,East,Industrial,Construction,Completed,Engineering,UrbanCon,2025-02-07,2025-08-01,February,2,562086,654570,7,2
+P0176,Project_176,East,Industrial,Construction,Pending,Engineering,BlueRock,2025-10-05,2026-02-16,October,10,829054,951734,2,13
+P0177,Project_177,East,Industrial,Design,Completed,Engineering,UrbanCon,2025-05-02,2026-01-19,May,5,1236039,1062003,8,10
+P0178,Project_178,East,Commercial,Finishing,Completed,Procurement,BuildCorp,2025-02-03,2025-06-22,February,2,1035001,1241854,7,9
+P0179,Project_179,West,Commercial,Finishing,Completed,Engineering,PrimeBuild,2025-11-25,2026-02-11,November,11,1143664,1158579,8,6
+P0180,Project_180,South,Industrial,Finishing,Pending,Engineering,UrbanCon,2025-08-10,2026-02-14,August,8,316209,360790,8,3
+P0181,Project_181,East,Residential,Design,In Progress,Procurement,SafeBuild,2025-06-27,2026-04-23,June,6,1288207,1498473,1,5
+P0182,Project_182,South,Industrial,Finishing,In Progress,Engineering,MegaConstruct,2025-11-11,2026-05-26,November,11,395933,406187,2,10
+P0183,Project_183,South,Residential,Finishing,Pending,Procurement,NextGen Infra,2025-06-22,2026-03-24,June,6,1381992,1194618,0,2
+P0184,Project_184,North,Industrial,Finishing,In Progress,Procurement,SafeBuild,2025-10-20,2026-04-04,October,10,1496267,1606462,7,15
+P0185,Project_185,East,Industrial,Construction,In Progress,Engineering,Skyline Co,2025-06-02,2025-11-25,June,6,353035,385166,2,8
+P0186,Project_186,West,Commercial,Construction,Completed,Safety,NextGen Infra,2025-03-15,2025-08-02,March,3,1706516,1641260,5,7
+P0187,Project_187,South,Commercial,Finishing,Pending,Engineering,PrimeBuild,2025-05-04,2025-10-30,May,5,456947,431182,3,3
+P0188,Project_188,North,Residential,Construction,In Progress,Procurement,Skyline Co,2025-05-08,2026-02-13,May,5,534914,606976,5,4
+P0189,Project_189,South,Commercial,Finishing,In Progress,Safety,MegaConstruct,2025-09-12,2025-11-16,September,9,388846,459161,8,8
+P0190,Project_190,South,Residential,Finishing,In Progress,Engineering,ABC Ltd,2025-05-25,2025-11-27,May,5,1453087,1683864,7,5
+P0191,Project_191,North,Residential,Construction,Completed,Safety,PrimeBuild,2025-07-26,2025-12-26,July,7,294880,291991,8,4
+P0192,Project_192,East,Industrial,Construction,Completed,Safety,BlueRock,2025-08-19,2026-05-01,August,8,1353133,1282637,1,3
+P0193,Project_193,North,Commercial,Construction,In Progress,Procurement,PrimeBuild,2025-03-15,2025-07-03,March,3,1463456,1504715,8,1
+P0194,Project_194,North,Residential,Design,Pending,Safety,Titan Builders,2025-09-23,2026-03-18,September,9,512351,544214,8,3
+P0195,Project_195,East,Industrial,Construction,Completed,Safety,NextGen Infra,2025-06-03,2025-12-31,June,6,905426,930379,8,9
+P0196,Project_196,West,Industrial,Finishing,In Progress,Safety,ABC Ltd,2025-07-08,2025-11-29,July,7,1613074,1432993,6,10
+P0197,Project_197,East,Industrial,Finishing,Pending,Engineering,NextGen Infra,2025-08-31,2026-01-05,August,8,1574873,1770183,3,12
+P0198,Project_198,North,Industrial,Construction,Completed,Procurement,NextGen Infra,2025-07-14,2025-10-19,July,7,1923148,2092874,0,10
+P0199,Project_199,North,Residential,Design,In Progress,Safety,Skyline Co,2025-03-19,2025-08-31,March,3,1648084,1518482,8,13
+P0200,Project_200,West,Industrial,Finishing,Completed,Procurement,UrbanCon,2025-09-23,2026-01-14,September,9,1376264,1326398,7,9
+P0201,Project_201,West,Commercial,Design,In Progress,Procurement,PrimeBuild,2025-10-07,2026-03-06,October,10,1617399,1811804,4,10
+P0202,Project_202,West,Residential,Design,In Progress,Procurement,MegaConstruct,2025-04-26,2025-09-09,April,4,1817269,1728498,3,12
+P0203,Project_203,West,Commercial,Construction,In Progress,Procurement,MegaConstruct,2025-05-28,2025-08-27,May,5,1402668,1524444,6,15
+P0204,Project_204,West,Commercial,Design,In Progress,Engineering,MegaConstruct,2025-02-10,2025-07-08,February,2,1127729,1217485,7,4
+P0205,Project_205,South,Industrial,Construction,Pending,Procurement,MegaConstruct,2025-03-12,2025-06-07,March,3,1491168,1654170,3,4
+P0206,Project_206,North,Industrial,Finishing,Completed,Procurement,SafeBuild,2025-01-27,2025-04-22,January,1,1066755,1030061,7,2
+P0207,Project_207,South,Residential,Finishing,Completed,Safety,Titan Builders,2025-09-02,2026-04-16,September,9,618289,689125,4,6
+P0208,Project_208,East,Industrial,Design,Completed,Procurement,NextGen Infra,2025-04-29,2025-11-11,April,4,1749137,1929457,0,15
+P0209,Project_209,South,Commercial,Design,Completed,Safety,Titan Builders,2025-04-06,2026-01-30,April,4,1770773,2101457,4,15
+P0210,Project_210,North,Residential,Construction,Pending,Procurement,BuildCorp,2025-06-21,2025-10-31,June,6,1152839,1379008,8,9
+P0211,Project_211,West,Residential,Finishing,In Progress,Safety,SafeBuild,2025-02-27,2025-07-21,February,2,540775,598038,4,12
+P0212,Project_212,South,Residential,Finishing,In Progress,Safety,NextGen Infra,2025-12-12,2026-08-22,December,12,605088,551491,6,14
+P0213,Project_213,West,Industrial,Construction,Completed,Safety,BuildCorp,2025-04-05,2025-07-09,April,4,1201293,1157158,3,1
+P0214,Project_214,East,Commercial,Design,In Progress,Safety,PrimeBuild,2025-06-04,2025-12-30,June,6,1715994,1802663,4,11
+P0215,Project_215,East,Industrial,Design,Completed,Procurement,BuildCorp,2025-08-27,2026-01-12,August,8,534950,530614,8,15
+P0216,Project_216,East,Industrial,Design,Pending,Safety,PrimeBuild,2025-11-11,2026-03-07,November,11,659545,781611,7,3
+P0217,Project_217,West,Industrial,Finishing,In Progress,Safety,BlueRock,2025-08-30,2026-05-10,August,8,1327256,1500726,3,13
+P0218,Project_218,South,Industrial,Finishing,Completed,Procurement,Titan Builders,2025-09-28,2026-05-26,September,9,958717,841116,1,1
+P0219,Project_219,South,Industrial,Finishing,Completed,Engineering,PrimeBuild,2025-09-24,2026-03-16,September,9,443772,482869,7,2
+P0220,Project_220,West,Residential,Construction,Completed,Procurement,Skyline Co,2025-08-22,2026-03-14,August,8,321082,335716,4,12
+P0221,Project_221,North,Commercial,Construction,Completed,Procurement,SafeBuild,2025-10-24,2026-01-10,October,10,294979,294475,1,9
+P0222,Project_222,North,Residential,Construction,Completed,Safety,Skyline Co,2025-04-03,2025-12-15,April,4,484014,541146,6,6
+P0223,Project_223,West,Commercial,Construction,In Progress,Engineering,BlueRock,2025-03-10,2025-10-23,March,3,929326,828514,8,7
+P0224,Project_224,South,Industrial,Design,Completed,Engineering,MegaConstruct,2025-08-26,2026-04-15,August,8,1708049,1777320,8,7
+P0225,Project_225,South,Residential,Construction,In Progress,Engineering,MegaConstruct,2025-04-07,2026-01-31,April,4,1720485,1923367,0,13
+P0226,Project_226,West,Industrial,Design,Completed,Engineering,BuildCorp,2025-02-21,2025-09-21,February,2,270414,272105,0,4
+P0227,Project_227,North,Commercial,Construction,Completed,Procurement,SafeBuild,2025-01-29,2025-05-04,January,1,1256746,1505228,3,14
+P0228,Project_228,East,Industrial,Finishing,Pending,Safety,SafeBuild,2025-06-04,2026-03-15,June,6,500438,598020,8,4
+P0229,Project_229,West,Commercial,Construction,Completed,Procurement,NextGen Infra,2025-03-31,2025-11-06,March,3,1623442,1622663,7,1
+P0230,Project_230,East,Industrial,Finishing,In Progress,Procurement,PrimeBuild,2025-12-23,2026-06-07,December,12,1056181,952914,6,3
+P0231,Project_231,West,Residential,Design,In Progress,Procurement,UrbanCon,2025-08-26,2026-06-16,August,8,320846,335872,6,9
+P0232,Project_232,South,Commercial,Design,In Progress,Engineering,PrimeBuild,2025-11-28,2026-02-16,November,11,1143271,1310756,1,9
+P0233,Project_233,South,Residential,Construction,In Progress,Procurement,NextGen Infra,2025-11-05,2026-01-14,November,11,352639,322966,8,4
+P0234,Project_234,West,Residential,Construction,In Progress,Engineering,SafeBuild,2025-04-08,2025-12-13,April,4,446029,495720,7,15
+P0235,Project_235,South,Industrial,Finishing,Pending,Engineering,Skyline Co,2025-05-03,2025-11-20,May,5,874475,980662,6,8
+P0236,Project_236,East,Commercial,Construction,In Progress,Procurement,Titan Builders,2025-08-27,2025-11-20,August,8,1883628,2248037,7,13
+P0237,Project_237,East,Residential,Construction,In Progress,Safety,ABC Ltd,2025-10-16,2026-07-24,October,10,664045,736716,0,5
+P0238,Project_238,West,Commercial,Design,Completed,Safety,SafeBuild,2025-07-14,2026-02-04,July,7,1947688,1823046,8,11
+P0239,Project_239,East,Commercial,Construction,Pending,Procurement,Titan Builders,2025-08-24,2025-12-05,August,8,1736734,1959455,2,3
+P0240,Project_240,West,Residential,Finishing,Pending,Engineering,BlueRock,2025-01-18,2025-10-19,January,1,1975653,1730702,0,13
+P0241,Project_241,North,Commercial,Design,Pending,Engineering,BuildCorp,2025-12-29,2026-04-06,December,12,219171,203073,7,6
+P0242,Project_242,North,Industrial,Finishing,Pending,Procurement,Titan Builders,2025-12-04,2026-06-06,December,12,232991,198581,8,7
+P0243,Project_243,North,Residential,Finishing,Pending,Safety,BlueRock,2025-05-27,2025-07-30,May,5,1253223,1421913,6,13
+P0244,Project_244,South,Residential,Design,Pending,Engineering,SafeBuild,2025-04-09,2025-11-13,April,4,1304058,1223658,5,5
+P0245,Project_245,West,Residential,Construction,In Progress,Safety,NextGen Infra,2025-05-05,2025-12-29,May,5,673656,643335,1,11
+P0246,Project_246,North,Residential,Construction,In Progress,Safety,BlueRock,2025-09-01,2025-11-14,September,9,1535357,1310131,2,2
+P0247,Project_247,West,Commercial,Finishing,In Progress,Procurement,BuildCorp,2025-09-28,2026-07-20,September,9,289237,269111,7,5
+P0248,Project_248,North,Residential,Finishing,In Progress,Procurement,NextGen Infra,2025-12-03,2026-02-09,December,12,576133,676995,5,1
+P0249,Project_249,South,Industrial,Design,Pending,Safety,BuildCorp,2025-06-03,2025-09-12,June,6,1382706,1291675,6,11
+P0250,Project_250,East,Commercial,Finishing,Completed,Procurement,BuildCorp,2025-09-14,2026-05-22,September,9,925319,803911,6,4
+P0251,Project_251,North,Commercial,Finishing,Pending,Procurement,Skyline Co,2025-06-17,2025-08-23,June,6,1529852,1446726,7,8
+P0252,Project_252,South,Commercial,Finishing,In Progress,Safety,UrbanCon,2025-12-15,2026-07-12,December,12,1585529,1558615,4,13
+P0253,Project_253,South,Industrial,Design,Completed,Safety,UrbanCon,2025-07-14,2026-03-13,July,7,1843937,1976452,6,6
+P0254,Project_254,East,Residential,Design,Completed,Safety,Titan Builders,2025-07-04,2026-03-15,July,7,765741,678278,1,3
+P0255,Project_255,West,Commercial,Finishing,Pending,Procurement,Skyline Co,2025-02-22,2025-04-29,February,2,387944,377807,1,10
+P0256,Project_256,East,Commercial,Design,In Progress,Safety,Skyline Co,2025-02-13,2025-10-16,February,2,1373433,1602552,3,10
+P0257,Project_257,South,Industrial,Construction,Completed,Engineering,MegaConstruct,2025-06-04,2025-10-10,June,6,1234155,1112068,2,7
+P0258,Project_258,East,Commercial,Construction,In Progress,Engineering,PrimeBuild,2025-05-09,2025-09-09,May,5,1711835,1829543,3,8
+P0259,Project_259,North,Residential,Construction,Completed,Safety,PrimeBuild,2025-11-14,2026-04-20,November,11,1886270,2172548,7,6
+P0260,Project_260,West,Industrial,Finishing,Completed,Safety,PrimeBuild,2025-11-05,2026-06-30,November,11,621216,632182,2,7
+P0261,Project_261,East,Commercial,Finishing,Pending,Procurement,Titan Builders,2025-10-22,2026-07-09,October,10,708400,682940,4,14
+P0262,Project_262,West,Commercial,Design,Pending,Engineering,NextGen Infra,2025-10-07,2026-01-21,October,10,1629655,1823040,0,12
+P0263,Project_263,West,Industrial,Design,In Progress,Safety,BuildCorp,2025-07-29,2026-03-18,July,7,1247114,1120797,4,4
+P0264,Project_264,East,Industrial,Design,Pending,Safety,Skyline Co,2025-02-07,2025-07-31,February,2,1453958,1479739,6,9
+P0265,Project_265,West,Industrial,Design,In Progress,Procurement,BlueRock,2025-11-01,2026-06-12,November,11,378220,335964,3,11
+P0266,Project_266,East,Residential,Finishing,Pending,Engineering,NextGen Infra,2025-11-27,2026-07-18,November,11,1556319,1540547,5,13
+P0267,Project_267,West,Residential,Design,Completed,Safety,SafeBuild,2025-09-19,2026-05-28,September,9,1287997,1346340,3,8
+P0268,Project_268,East,Commercial,Construction,Pending,Procurement,BlueRock,2025-03-19,2025-08-14,March,3,251511,256282,4,7
+P0269,Project_269,North,Residential,Finishing,Completed,Safety,MegaConstruct,2025-06-25,2025-12-18,June,6,1844733,1701588,7,6
+P0270,Project_270,West,Residential,Construction,Pending,Procurement,Titan Builders,2025-06-13,2025-08-29,June,6,829699,718219,1,1
+P0271,Project_271,East,Industrial,Design,Pending,Engineering,SafeBuild,2025-09-22,2026-01-04,September,9,1357439,1229904,8,7
+P0272,Project_272,West,Residential,Construction,Pending,Engineering,UrbanCon,2025-11-24,2026-07-10,November,11,1106251,1093478,3,8
+P0273,Project_273,West,Commercial,Design,Pending,Engineering,SafeBuild,2025-05-23,2026-01-30,May,5,1675891,1898877,1,10
+P0274,Project_274,North,Industrial,Design,In Progress,Safety,SafeBuild,2025-08-23,2025-11-20,August,8,750194,813769,7,9
+P0275,Project_275,East,Industrial,Construction,Pending,Safety,NextGen Infra,2025-02-28,2025-07-27,February,2,938165,1075072,2,14
+P0276,Project_276,East,Industrial,Finishing,Completed,Procurement,UrbanCon,2025-06-10,2025-09-08,June,6,700323,670127,2,6
+P0277,Project_277,South,Industrial,Construction,In Progress,Procurement,UrbanCon,2025-10-22,2026-03-29,October,10,1087176,994781,8,12
+P0278,Project_278,South,Industrial,Design,In Progress,Safety,UrbanCon,2025-04-06,2025-08-24,April,4,1965770,1981201,0,14
+P0279,Project_279,East,Residential,Construction,Completed,Engineering,Skyline Co,2025-10-15,2026-04-22,October,10,1569586,1606062,7,7
+P0280,Project_280,West,Commercial,Design,Completed,Procurement,ABC Ltd,2025-04-23,2025-09-04,April,4,268566,254116,8,5
+P0281,Project_281,South,Commercial,Finishing,Pending,Safety,BlueRock,2025-09-19,2025-12-16,September,9,1401068,1246911,8,14
+P0282,Project_282,East,Industrial,Design,Pending,Safety,BlueRock,2025-04-22,2025-10-07,April,4,414782,459410,3,5
+P0283,Project_283,North,Commercial,Construction,In Progress,Engineering,Titan Builders,2025-03-02,2025-11-15,March,3,1902654,1775045,5,14
+P0284,Project_284,West,Residential,Finishing,Completed,Engineering,SafeBuild,2025-01-31,2025-08-24,January,1,935713,969677,8,3
+P0285,Project_285,East,Industrial,Construction,In Progress,Procurement,MegaConstruct,2025-09-21,2026-07-08,September,9,1624593,1844422,2,13
+P0286,Project_286,West,Residential,Construction,Pending,Engineering,UrbanCon,2025-05-08,2025-08-13,May,5,1691903,1628852,3,13
+P0287,Project_287,West,Commercial,Design,Pending,Procurement,MegaConstruct,2025-11-18,2026-05-03,November,11,986793,994881,1,7
+P0288,Project_288,East,Industrial,Construction,In Progress,Safety,PrimeBuild,2025-10-25,2025-12-24,October,10,1823479,2090634,1,12
+P0289,Project_289,West,Industrial,Finishing,Pending,Safety,BuildCorp,2025-10-01,2026-03-11,October,10,656822,780859,3,8
+P0290,Project_290,East,Commercial,Construction,In Progress,Procurement,NextGen Infra,2025-03-08,2025-09-28,March,3,1987659,2027150,5,15
+P0291,Project_291,North,Residential,Design,Pending,Safety,ABC Ltd,2025-03-05,2025-12-27,March,3,1998625,1809343,7,1
+P0292,Project_292,West,Residential,Finishing,Completed,Procurement,MegaConstruct,2025-03-23,2025-12-31,March,3,774660,683768,5,5
+P0293,Project_293,North,Commercial,Finishing,Pending,Engineering,ABC Ltd,2025-07-22,2026-02-27,July,7,840699,928212,3,7
+P0294,Project_294,North,Industrial,Design,Completed,Engineering,Titan Builders,2025-02-09,2025-05-13,February,2,1445036,1342679,7,1
+P0295,Project_295,North,Industrial,Construction,Completed,Safety,UrbanCon,2025-09-02,2025-11-19,September,9,680136,669304,1,2
+P0296,Project_296,East,Commercial,Construction,Completed,Safety,UrbanCon,2025-11-25,2026-07-16,November,11,499584,436608,0,10
+P0297,Project_297,South,Commercial,Construction,Pending,Engineering,UrbanCon,2025-07-30,2026-03-04,July,7,1639833,1647760,3,2
+P0298,Project_298,North,Residential,Design,Pending,Procurement,Skyline Co,2025-06-29,2025-12-15,June,6,859561,968619,3,5
+P0299,Project_299,North,Residential,Finishing,Pending,Procurement,NextGen Infra,2025-05-26,2026-02-09,May,5,1648033,1416300,4,4
+P0300,Project_300,South,Industrial,Construction,In Progress,Procurement,ABC Ltd,2025-05-03,2025-11-05,May,5,1009260,897696,7,11
+P0301,Project_301,North,Industrial,Design,In Progress,Safety,UrbanCon,2025-07-18,2026-04-24,July,7,1959454,2055336,5,9
+P0302,Project_302,South,Commercial,Design,Completed,Procurement,BuildCorp,2025-01-08,2025-05-15,January,1,652445,563672,0,13
+P0303,Project_303,West,Industrial,Construction,Pending,Procurement,BlueRock,2025-08-01,2026-01-16,August,8,1671803,1656417,8,9
+P0304,Project_304,South,Commercial,Design,In Progress,Engineering,BlueRock,2025-04-15,2026-01-06,April,4,525849,545692,6,10
+P0305,Project_305,North,Commercial,Finishing,In Progress,Procurement,SafeBuild,2025-01-30,2025-06-01,January,1,380801,446915,1,8
+P0306,Project_306,North,Commercial,Finishing,Pending,Procurement,UrbanCon,2025-03-03,2025-05-05,March,3,1684575,1512788,0,3
+P0307,Project_307,West,Commercial,Finishing,Pending,Procurement,MegaConstruct,2025-03-27,2025-08-29,March,3,466192,518602,4,12
+P0308,Project_308,North,Residential,Construction,In Progress,Safety,BlueRock,2025-02-02,2025-06-09,February,2,1693850,2017828,1,8
+P0309,Project_309,West,Industrial,Construction,Completed,Safety,NextGen Infra,2025-03-27,2025-08-28,March,3,529902,497731,1,15
+P0310,Project_310,North,Residential,Finishing,Pending,Engineering,ABC Ltd,2025-01-07,2025-05-09,January,1,296430,300911,6,15
+P0311,Project_311,South,Residential,Design,Pending,Procurement,Skyline Co,2025-04-25,2025-09-14,April,4,720645,717538,5,5
+P0312,Project_312,North,Industrial,Construction,Completed,Procurement,ABC Ltd,2025-04-02,2025-07-28,April,4,1886819,1944406,0,7
+P0313,Project_313,North,Commercial,Construction,In Progress,Safety,BuildCorp,2025-10-11,2026-04-05,October,10,216712,212187,4,10
+P0314,Project_314,East,Industrial,Finishing,Completed,Safety,PrimeBuild,2025-10-30,2026-05-04,October,10,1820287,2041561,8,13
+P0315,Project_315,South,Residential,Design,In Progress,Engineering,SafeBuild,2025-10-05,2026-03-02,October,10,1533666,1754285,0,6
+P0316,Project_316,North,Industrial,Construction,Pending,Procurement,MegaConstruct,2025-02-23,2025-06-15,February,2,1311101,1565573,6,8
+P0317,Project_317,North,Residential,Finishing,In Progress,Engineering,ABC Ltd,2025-04-29,2026-02-12,April,4,1973150,2036124,5,8
+P0318,Project_318,North,Industrial,Design,Pending,Engineering,Skyline Co,2025-02-08,2025-09-07,February,2,1390806,1212503,2,4
+P0319,Project_319,East,Commercial,Construction,In Progress,Procurement,PrimeBuild,2025-06-12,2025-12-04,June,6,770332,717767,3,3
+P0320,Project_320,North,Residential,Design,Completed,Safety,Titan Builders,2025-06-10,2025-11-21,June,6,453203,470231,3,8
+P0321,Project_321,East,Commercial,Construction,Completed,Engineering,UrbanCon,2025-12-18,2026-05-04,December,12,1933058,2119881,0,4
+P0322,Project_322,East,Residential,Design,Pending,Engineering,PrimeBuild,2025-07-22,2026-01-29,July,7,302656,328991,4,14
+P0323,Project_323,South,Residential,Construction,In Progress,Procurement,BlueRock,2025-05-08,2025-07-31,May,5,1168974,1035322,2,2
+P0324,Project_324,North,Residential,Design,Completed,Engineering,Skyline Co,2025-07-10,2026-03-02,July,7,1521829,1792944,1,10
+P0325,Project_325,East,Residential,Design,Completed,Engineering,Titan Builders,2025-03-07,2025-05-29,March,3,1976865,2254169,5,2
+P0326,Project_326,North,Commercial,Design,Completed,Procurement,Skyline Co,2025-07-22,2026-01-25,July,7,261828,257627,6,3
+P0327,Project_327,East,Residential,Design,In Progress,Safety,Titan Builders,2025-03-18,2025-05-25,March,3,1487874,1587132,3,11
+P0328,Project_328,East,Commercial,Construction,Pending,Safety,ABC Ltd,2025-02-14,2025-06-25,February,2,1003241,900943,3,11
+P0329,Project_329,South,Industrial,Finishing,Completed,Safety,PrimeBuild,2025-09-03,2026-03-21,September,9,1838788,1874897,8,6
+P0330,Project_330,West,Commercial,Design,Completed,Safety,NextGen Infra,2025-04-23,2025-06-29,April,4,1900138,2132882,0,13
+P0331,Project_331,West,Industrial,Construction,Pending,Engineering,UrbanCon,2025-02-21,2025-06-24,February,2,1577544,1474062,8,14
+P0332,Project_332,North,Residential,Finishing,In Progress,Safety,UrbanCon,2025-04-01,2025-07-30,April,4,1442603,1386776,5,15
+P0333,Project_333,North,Industrial,Finishing,In Progress,Procurement,NextGen Infra,2025-03-14,2025-10-04,March,3,594754,679710,7,9
+P0334,Project_334,East,Residential,Construction,Completed,Engineering,ABC Ltd,2025-04-30,2025-11-30,April,4,658875,564639,7,1
+P0335,Project_335,East,Industrial,Design,Completed,Safety,UrbanCon,2025-06-15,2025-08-29,June,6,245954,221776,2,13
+P0336,Project_336,North,Industrial,Construction,Completed,Safety,Skyline Co,2025-10-28,2026-01-21,October,10,905819,865616,2,3
+P0337,Project_337,West,Industrial,Construction,Pending,Safety,UrbanCon,2025-12-29,2026-07-20,December,12,1654501,1921471,5,4
+P0338,Project_338,South,Commercial,Construction,Pending,Procurement,MegaConstruct,2025-03-07,2025-06-20,March,3,1728469,1470286,6,14
+P0339,Project_339,North,Residential,Finishing,In Progress,Procurement,SafeBuild,2025-11-24,2026-06-16,November,11,418334,492730,2,6
+P0340,Project_340,North,Residential,Construction,In Progress,Engineering,BuildCorp,2025-12-29,2026-08-17,December,12,1540295,1702411,5,8
+P0341,Project_341,North,Commercial,Design,Completed,Procurement,BuildCorp,2025-06-29,2025-11-01,June,6,1850500,1642896,0,1
+P0342,Project_342,West,Commercial,Finishing,In Progress,Engineering,Skyline Co,2025-09-10,2026-06-22,September,9,994217,967304,6,2
+P0343,Project_343,West,Industrial,Finishing,Pending,Engineering,UrbanCon,2025-08-20,2025-11-06,August,8,1876032,2149964,4,1
+P0344,Project_344,East,Commercial,Design,Completed,Safety,UrbanCon,2025-07-12,2025-10-21,July,7,1735083,1520367,1,6
+P0345,Project_345,West,Industrial,Design,In Progress,Procurement,UrbanCon,2025-11-07,2026-08-21,November,11,1110584,1005063,1,6
+P0346,Project_346,South,Residential,Construction,Pending,Procurement,BlueRock,2025-05-16,2025-12-31,May,5,790396,754109,1,1
+P0347,Project_347,West,Industrial,Finishing,In Progress,Engineering,ABC Ltd,2025-07-04,2025-09-02,July,7,1096754,965878,7,4
+P0348,Project_348,North,Residential,Design,Completed,Procurement,MegaConstruct,2025-02-11,2025-08-11,February,2,1969512,1753708,6,8
+P0349,Project_349,West,Industrial,Construction,Completed,Procurement,BlueRock,2025-07-18,2025-11-02,July,7,978086,1134503,5,3
+P0350,Project_350,West,Residential,Construction,In Progress,Safety,MegaConstruct,2025-04-26,2026-01-25,April,4,763215,799457,2,13
+P0351,Project_351,North,Residential,Finishing,In Progress,Procurement,Skyline Co,2025-10-29,2026-02-24,October,10,1360987,1185888,6,14
+P0352,Project_352,West,Industrial,Finishing,In Progress,Procurement,SafeBuild,2025-09-01,2026-01-15,September,9,365580,361259,0,9
+P0353,Project_353,South,Residential,Construction,Completed,Engineering,SafeBuild,2025-04-09,2025-07-10,April,4,289497,288970,6,4
+P0354,Project_354,South,Industrial,Construction,In Progress,Procurement,BuildCorp,2025-02-14,2025-07-23,February,2,1366780,1351846,5,14
+P0355,Project_355,East,Industrial,Construction,Completed,Procurement,NextGen Infra,2025-10-28,2026-05-09,October,10,1839313,1833533,6,3
+P0356,Project_356,South,Industrial,Finishing,Pending,Engineering,BuildCorp,2025-10-16,2026-07-02,October,10,411792,463270,8,15
+P0357,Project_357,East,Commercial,Construction,In Progress,Procurement,Titan Builders,2025-10-20,2026-05-23,October,10,1192050,1028873,4,7
+P0358,Project_358,South,Industrial,Finishing,Pending,Procurement,Skyline Co,2025-01-20,2025-06-30,January,1,895193,977264,0,12
+P0359,Project_359,West,Commercial,Construction,Completed,Safety,MegaConstruct,2025-06-09,2025-10-18,June,6,1967577,2010994,1,14
+P0360,Project_360,South,Residential,Construction,Pending,Safety,PrimeBuild,2025-05-18,2026-01-19,May,5,1074035,1140348,1,4
+P0361,Project_361,West,Residential,Construction,Pending,Safety,BlueRock,2025-07-11,2026-04-07,July,7,317872,327517,2,2
+P0362,Project_362,East,Industrial,Finishing,In Progress,Engineering,BlueRock,2025-10-19,2025-12-25,October,10,564353,517775,3,14
+P0363,Project_363,North,Residential,Design,In Progress,Engineering,PrimeBuild,2025-12-27,2026-04-16,December,12,774572,758246,7,9
+P0364,Project_364,West,Industrial,Design,Pending,Engineering,SafeBuild,2025-07-10,2026-01-11,July,7,1445799,1454670,7,10
+P0365,Project_365,East,Commercial,Design,In Progress,Procurement,BuildCorp,2025-05-26,2025-08-01,May,5,1010686,876646,3,14
+P0366,Project_366,South,Industrial,Design,Pending,Engineering,MegaConstruct,2025-11-30,2026-05-13,November,11,1276428,1093922,0,8
+P0367,Project_367,South,Industrial,Design,Pending,Engineering,SafeBuild,2025-05-10,2025-12-11,May,5,1888386,2228393,4,7
+P0368,Project_368,West,Commercial,Construction,In Progress,Engineering,Titan Builders,2025-06-04,2026-01-23,June,6,1291856,1470789,6,10
+P0369,Project_369,North,Residential,Finishing,Pending,Safety,BlueRock,2025-11-28,2026-06-28,November,11,1477270,1401836,1,8
+P0370,Project_370,North,Commercial,Construction,Pending,Safety,MegaConstruct,2025-05-14,2025-12-27,May,5,1691271,2001223,4,4
+P0371,Project_371,South,Industrial,Design,Completed,Procurement,Skyline Co,2025-12-05,2026-04-25,December,12,1627648,1463215,0,11
+P0372,Project_372,West,Commercial,Construction,In Progress,Safety,Skyline Co,2025-01-19,2025-08-16,January,1,1684928,2018819,3,6
+P0373,Project_373,South,Industrial,Finishing,Pending,Safety,PrimeBuild,2025-09-17,2026-01-31,September,9,1972972,1794408,8,3
+P0374,Project_374,East,Residential,Construction,Completed,Procurement,MegaConstruct,2025-10-14,2026-06-26,October,10,583922,689858,5,11
+P0375,Project_375,North,Residential,Construction,Completed,Procurement,MegaConstruct,2025-08-04,2026-04-22,August,8,894822,877005,4,8
+P0376,Project_376,North,Commercial,Design,Pending,Procurement,NextGen Infra,2025-11-14,2026-01-31,November,11,1190316,1382312,8,2
+P0377,Project_377,West,Industrial,Construction,In Progress,Engineering,UrbanCon,2025-03-12,2025-07-01,March,3,918630,912399,7,3
+P0378,Project_378,East,Industrial,Design,Completed,Safety,PrimeBuild,2025-11-20,2026-03-05,November,11,857276,919063,0,8
+P0379,Project_379,East,Residential,Design,Pending,Engineering,Titan Builders,2025-02-15,2025-05-19,February,2,1488657,1491335,6,7
+P0380,Project_380,West,Commercial,Construction,Completed,Engineering,BlueRock,2025-04-13,2025-12-16,April,4,982450,1161770,5,13
+P0381,Project_381,South,Residential,Finishing,Completed,Procurement,SafeBuild,2025-04-26,2025-12-19,April,4,922153,884558,1,7
+P0382,Project_382,East,Residential,Design,Completed,Safety,MegaConstruct,2025-08-22,2026-04-25,August,8,1291123,1366949,5,7
+P0383,Project_383,South,Commercial,Construction,In Progress,Engineering,UrbanCon,2025-07-26,2025-09-28,July,7,679027,630485,2,4
+P0384,Project_384,North,Industrial,Finishing,Completed,Engineering,PrimeBuild,2025-12-31,2026-08-14,December,12,1861211,1606368,4,13
+P0385,Project_385,North,Industrial,Design,Pending,Engineering,ABC Ltd,2025-01-25,2025-09-18,January,1,442828,440999,6,2
+P0386,Project_386,East,Commercial,Finishing,Completed,Engineering,ABC Ltd,2025-06-04,2025-11-18,June,6,1587611,1405580,8,5
+P0387,Project_387,South,Commercial,Design,Pending,Procurement,NextGen Infra,2025-03-02,2025-07-12,March,3,439101,493841,7,4
+P0388,Project_388,South,Commercial,Finishing,Completed,Safety,Skyline Co,2025-06-01,2025-09-10,June,6,282639,294467,3,12
+P0389,Project_389,West,Commercial,Design,Completed,Engineering,BuildCorp,2025-02-26,2025-11-26,February,2,1404085,1522249,2,2
+P0390,Project_390,North,Industrial,Finishing,Completed,Safety,SafeBuild,2025-08-22,2026-01-04,August,8,753910,763331,1,14
+P0391,Project_391,South,Residential,Construction,In Progress,Procurement,PrimeBuild,2025-08-07,2026-04-13,August,8,443062,391334,0,1
+P0392,Project_392,South,Industrial,Finishing,Completed,Safety,PrimeBuild,2025-08-13,2026-03-20,August,8,762685,882782,1,6
+P0393,Project_393,East,Residential,Design,In Progress,Safety,Titan Builders,2025-05-20,2026-02-17,May,5,1008904,1101184,7,13
+P0394,Project_394,West,Industrial,Design,Completed,Engineering,ABC Ltd,2025-03-23,2025-06-17,March,3,1072473,1253645,7,13
+P0395,Project_395,West,Residential,Finishing,In Progress,Safety,NextGen Infra,2025-01-15,2025-10-22,January,1,1635425,1893793,2,8
+P0396,Project_396,West,Residential,Construction,In Progress,Engineering,BuildCorp,2025-05-14,2025-12-27,May,5,859004,733869,8,13
+P0397,Project_397,South,Industrial,Construction,Pending,Procurement,NextGen Infra,2025-02-18,2025-08-07,February,2,1587713,1753356,7,6
+P0398,Project_398,West,Residential,Finishing,Pending,Engineering,ABC Ltd,2025-11-26,2026-09-21,November,11,529100,543358,7,14
+P0399,Project_399,West,Residential,Design,In Progress,Safety,SafeBuild,2025-06-19,2025-10-28,June,6,305593,313973,8,11
+P0400,Project_400,West,Commercial,Design,Completed,Safety,Titan Builders,2025-10-21,2026-04-13,October,10,384591,442205,7,6
+P0401,Project_401,North,Commercial,Finishing,Pending,Engineering,BuildCorp,2025-07-26,2026-01-07,July,7,275145,287525,0,14
+P0402,Project_402,North,Industrial,Finishing,Pending,Safety,BlueRock,2025-10-15,2026-02-04,October,10,1572787,1706499,5,6
+P0403,Project_403,North,Residential,Construction,In Progress,Procurement,NextGen Infra,2025-11-04,2026-05-04,November,11,1702940,1839189,7,2
+P0404,Project_404,North,Industrial,Design,Completed,Safety,PrimeBuild,2025-11-21,2026-08-12,November,11,812333,846200,5,12
+P0405,Project_405,North,Residential,Design,In Progress,Engineering,Skyline Co,2025-02-24,2025-06-29,February,2,1481049,1360450,1,15
+P0406,Project_406,West,Residential,Construction,Completed,Procurement,PrimeBuild,2025-02-25,2025-11-05,February,2,1069207,926227,1,13
+P0407,Project_407,West,Commercial,Finishing,Pending,Procurement,UrbanCon,2025-09-13,2025-11-13,September,9,1312254,1453550,8,15
+P0408,Project_408,West,Industrial,Construction,Pending,Engineering,NextGen Infra,2025-03-30,2025-12-02,March,3,1909690,1709045,6,11
+P0409,Project_409,East,Industrial,Construction,In Progress,Procurement,SafeBuild,2025-05-21,2025-10-29,May,5,919027,1093340,7,13
+P0410,Project_410,South,Residential,Construction,Pending,Procurement,BlueRock,2025-06-03,2026-03-05,June,6,1671140,1740880,5,12
+P0411,Project_411,South,Residential,Design,Pending,Procurement,MegaConstruct,2025-12-18,2026-05-15,December,12,1610069,1443322,2,9
+P0412,Project_412,East,Industrial,Design,In Progress,Procurement,Titan Builders,2025-10-26,2026-05-20,October,10,1599130,1756713,8,5
+P0413,Project_413,West,Residential,Finishing,Completed,Engineering,Skyline Co,2025-03-16,2025-05-28,March,3,1605624,1396590,4,13
+P0414,Project_414,South,Commercial,Finishing,In Progress,Engineering,ABC Ltd,2025-12-20,2026-09-06,December,12,818954,754584,8,1
+P0415,Project_415,East,Commercial,Design,Pending,Procurement,BlueRock,2025-04-25,2025-12-31,April,4,1557107,1629426,3,9
+P0416,Project_416,East,Industrial,Finishing,Completed,Safety,Skyline Co,2025-08-02,2026-04-20,August,8,1636861,1570451,8,1
+P0417,Project_417,North,Industrial,Construction,Completed,Procurement,Titan Builders,2025-04-26,2026-02-13,April,4,1529150,1676896,5,13
+P0418,Project_418,South,Industrial,Design,In Progress,Safety,UrbanCon,2025-12-16,2026-03-05,December,12,592118,702764,8,2
+P0419,Project_419,West,Residential,Construction,In Progress,Procurement,MegaConstruct,2025-03-08,2025-06-17,March,3,1424707,1632863,0,6
+P0420,Project_420,West,Industrial,Design,Completed,Engineering,PrimeBuild,2025-11-02,2026-01-14,November,11,1822484,2143849,4,8
+P0421,Project_421,East,Residential,Finishing,In Progress,Procurement,SafeBuild,2025-04-05,2025-10-15,April,4,342976,385913,2,7
+P0422,Project_422,West,Residential,Construction,Completed,Engineering,PrimeBuild,2025-06-19,2025-11-18,June,6,815670,755682,8,8
+P0423,Project_423,North,Residential,Finishing,In Progress,Safety,SafeBuild,2025-11-25,2026-06-30,November,11,1502607,1405447,0,11
+P0424,Project_424,East,Commercial,Design,In Progress,Safety,BlueRock,2025-05-25,2025-07-30,May,5,1283950,1460798,5,9
+P0425,Project_425,West,Commercial,Design,In Progress,Procurement,SafeBuild,2025-06-14,2025-12-22,June,6,372690,440472,2,13
+P0426,Project_426,North,Industrial,Design,Completed,Procurement,SafeBuild,2025-12-17,2026-06-03,December,12,1952516,1730660,8,14
+P0427,Project_427,West,Industrial,Design,Pending,Procurement,UrbanCon,2025-01-13,2025-07-09,January,1,1703381,1645637,1,2
+P0428,Project_428,North,Residential,Construction,Pending,Engineering,NextGen Infra,2025-04-27,2026-02-14,April,4,742424,736983,7,11
+P0429,Project_429,West,Commercial,Construction,Completed,Safety,BuildCorp,2025-10-01,2025-12-01,October,10,1545160,1702920,1,13
+P0430,Project_430,North,Industrial,Design,In Progress,Procurement,BuildCorp,2025-05-29,2026-02-14,May,5,1638391,1565437,1,5
+P0431,Project_431,West,Commercial,Construction,Pending,Engineering,Titan Builders,2025-03-22,2025-10-04,March,3,661091,593483,6,13
+P0432,Project_432,East,Industrial,Design,In Progress,Procurement,PrimeBuild,2025-01-06,2025-07-26,January,1,1364065,1226950,0,1
+P0433,Project_433,West,Industrial,Finishing,Completed,Safety,SafeBuild,2025-06-26,2025-10-18,June,6,1065399,1243288,8,3
+P0434,Project_434,South,Residential,Design,Pending,Safety,SafeBuild,2025-02-28,2025-06-14,February,2,1607142,1815879,0,14
+P0435,Project_435,West,Industrial,Finishing,Completed,Safety,BuildCorp,2025-05-09,2025-08-02,May,5,614014,677844,7,6
+P0436,Project_436,East,Residential,Finishing,Pending,Engineering,BuildCorp,2025-05-26,2025-12-30,May,5,346399,403569,5,8
+P0437,Project_437,West,Commercial,Finishing,Pending,Safety,NextGen Infra,2025-03-20,2025-10-10,March,3,1388795,1357648,5,7
+P0438,Project_438,South,Residential,Construction,Completed,Engineering,Skyline Co,2025-05-22,2026-02-21,May,5,953896,855651,5,15
+P0439,Project_439,West,Commercial,Construction,In Progress,Safety,Titan Builders,2025-10-10,2026-01-05,October,10,568616,611798,1,14
+P0440,Project_440,East,Residential,Finishing,Completed,Safety,BuildCorp,2025-02-08,2025-11-23,February,2,239070,274298,0,14
+P0441,Project_441,West,Industrial,Design,Completed,Procurement,MegaConstruct,2025-10-06,2026-07-21,October,10,1331784,1352075,2,6
+P0442,Project_442,West,Residential,Finishing,Pending,Safety,UrbanCon,2025-08-26,2026-03-02,August,8,1270411,1120113,5,9
+P0443,Project_443,North,Industrial,Design,Pending,Procurement,UrbanCon,2025-09-21,2025-12-25,September,9,1135792,1028718,2,12
+P0444,Project_444,West,Commercial,Design,Completed,Safety,SafeBuild,2025-02-02,2025-06-09,February,2,974761,908386,3,9
+P0445,Project_445,East,Commercial,Construction,In Progress,Engineering,ABC Ltd,2025-11-29,2026-04-20,November,11,416478,456588,8,11
+P0446,Project_446,East,Industrial,Construction,Pending,Procurement,NextGen Infra,2025-03-31,2025-09-03,March,3,1570856,1543336,1,9
+P0447,Project_447,East,Commercial,Design,Pending,Safety,PrimeBuild,2025-06-26,2025-12-27,June,6,1862323,1897220,0,9
+P0448,Project_448,South,Commercial,Design,Completed,Engineering,BlueRock,2025-11-26,2026-04-06,November,11,643583,580887,2,6
+P0449,Project_449,North,Industrial,Design,In Progress,Safety,BuildCorp,2025-09-04,2026-04-24,September,9,1204147,1225409,2,11
+P0450,Project_450,West,Residential,Design,Completed,Engineering,NextGen Infra,2025-10-31,2026-02-09,October,10,482536,516477,0,15
+P0451,Project_451,South,Residential,Design,In Progress,Engineering,BlueRock,2025-07-27,2026-02-25,July,7,1381964,1483079,4,2
+P0452,Project_452,South,Commercial,Finishing,In Progress,Safety,UrbanCon,2025-04-23,2026-01-20,April,4,1061440,1125437,2,10
+P0453,Project_453,East,Residential,Finishing,Pending,Safety,Titan Builders,2025-11-02,2026-06-01,November,11,344374,320417,6,3
+P0454,Project_454,North,Residential,Design,Pending,Procurement,Skyline Co,2025-03-18,2025-10-19,March,3,401952,366619,0,15
+P0455,Project_455,North,Residential,Construction,Pending,Engineering,NextGen Infra,2025-10-04,2026-07-02,October,10,202517,235717,6,9
+P0456,Project_456,West,Commercial,Design,Pending,Procurement,Skyline Co,2025-04-28,2026-02-22,April,4,1882545,1917829,6,6
+P0457,Project_457,North,Commercial,Design,In Progress,Safety,SafeBuild,2025-02-12,2025-06-24,February,2,1454709,1682906,6,5
+P0458,Project_458,South,Residential,Finishing,Pending,Engineering,NextGen Infra,2025-09-25,2025-12-24,September,9,1290019,1099764,3,12
+P0459,Project_459,East,Commercial,Construction,Completed,Engineering,Skyline Co,2025-11-30,2026-06-27,November,11,731906,689057,8,7
+P0460,Project_460,East,Industrial,Construction,Pending,Safety,SafeBuild,2025-07-31,2026-02-17,July,7,1843723,1926961,2,6
+P0461,Project_461,West,Commercial,Construction,Pending,Safety,Skyline Co,2025-03-12,2025-12-15,March,3,1582616,1411187,3,8
+P0462,Project_462,South,Residential,Design,Pending,Safety,PrimeBuild,2025-10-09,2026-05-14,October,10,1661835,1810731,0,3
+P0463,Project_463,West,Industrial,Design,Completed,Engineering,Titan Builders,2025-11-04,2026-04-24,November,11,384844,335748,3,6
+P0464,Project_464,North,Industrial,Design,Pending,Safety,Skyline Co,2025-11-11,2026-06-26,November,11,1292627,1228337,0,13
+P0465,Project_465,South,Industrial,Construction,In Progress,Engineering,SafeBuild,2025-12-03,2026-09-27,December,12,1885921,1945051,3,1
+P0466,Project_466,South,Industrial,Design,Pending,Engineering,PrimeBuild,2025-05-03,2025-12-16,May,5,200602,239012,1,5
+P0467,Project_467,West,Commercial,Finishing,In Progress,Safety,NextGen Infra,2025-04-13,2025-10-22,April,4,232225,257287,1,15
+P0468,Project_468,North,Industrial,Construction,Pending,Procurement,NextGen Infra,2025-06-28,2025-11-23,June,6,1910258,1808589,3,8
+P0469,Project_469,West,Industrial,Design,In Progress,Engineering,Skyline Co,2025-09-17,2025-12-13,September,9,1371533,1200550,4,6
+P0470,Project_470,North,Industrial,Construction,Pending,Procurement,MegaConstruct,2025-12-22,2026-06-13,December,12,990794,1037469,3,13
+P0471,Project_471,East,Commercial,Finishing,In Progress,Procurement,ABC Ltd,2025-09-04,2025-12-02,September,9,740687,647096,3,11
+P0472,Project_472,South,Commercial,Construction,In Progress,Procurement,BlueRock,2025-01-05,2025-09-01,January,1,1945201,1832714,4,2
+P0473,Project_473,West,Industrial,Finishing,In Progress,Engineering,BlueRock,2025-04-02,2025-09-30,April,4,858238,835699,4,3
+P0474,Project_474,South,Commercial,Finishing,Completed,Engineering,SafeBuild,2025-05-16,2025-09-05,May,5,680683,626887,3,14
+P0475,Project_475,East,Residential,Design,Completed,Engineering,Titan Builders,2025-11-11,2026-01-11,November,11,1802736,2073112,0,14
+P0476,Project_476,West,Commercial,Finishing,In Progress,Safety,NextGen Infra,2025-05-21,2025-11-22,May,5,583510,697024,8,5
+P0477,Project_477,West,Residential,Finishing,Completed,Engineering,BlueRock,2025-08-05,2026-02-03,August,8,1334072,1149165,5,7
+P0478,Project_478,South,Commercial,Design,Pending,Procurement,Titan Builders,2025-06-11,2026-02-02,June,6,217655,185907,3,7
+P0479,Project_479,North,Commercial,Construction,Pending,Safety,UrbanCon,2025-10-08,2026-02-12,October,10,697316,658470,5,6
+P0480,Project_480,South,Commercial,Construction,Completed,Safety,PrimeBuild,2025-07-06,2026-04-10,July,7,1040103,985882,2,10
+P0481,Project_481,South,Industrial,Finishing,Completed,Engineering,MegaConstruct,2025-05-01,2025-11-19,May,5,1106428,1272069,3,3
+P0482,Project_482,South,Commercial,Design,Completed,Safety,Titan Builders,2025-03-10,2025-12-23,March,3,1981299,2121432,8,12
+P0483,Project_483,East,Commercial,Construction,In Progress,Procurement,NextGen Infra,2025-01-25,2025-07-05,January,1,407565,444934,0,4
+P0484,Project_484,East,Commercial,Finishing,Completed,Safety,PrimeBuild,2025-05-14,2025-10-13,May,5,955617,999692,4,6
+P0485,Project_485,North,Commercial,Design,In Progress,Procurement,NextGen Infra,2025-04-12,2025-11-05,April,4,1407738,1516771,8,3
+P0486,Project_486,East,Commercial,Construction,Pending,Procurement,Titan Builders,2025-08-17,2026-05-31,August,8,364432,358373,4,8
+P0487,Project_487,South,Residential,Finishing,In Progress,Safety,NextGen Infra,2025-10-20,2026-04-01,October,10,1980273,2311920,1,3
+P0488,Project_488,East,Residential,Construction,In Progress,Procurement,MegaConstruct,2025-12-30,2026-05-07,December,12,1469584,1580722,4,15
+P0489,Project_489,West,Commercial,Finishing,Pending,Procurement,Titan Builders,2025-07-31,2025-11-10,July,7,585637,672881,2,12
+P0490,Project_490,South,Industrial,Construction,Pending,Procurement,BuildCorp,2025-04-18,2025-07-29,April,4,1032664,914995,1,15
+P0491,Project_491,West,Industrial,Design,Completed,Safety,BlueRock,2025-02-12,2025-05-09,February,2,750402,800180,1,11
+P0492,Project_492,West,Commercial,Design,Completed,Procurement,MegaConstruct,2025-08-15,2026-03-23,August,8,465104,416708,2,1
+P0493,Project_493,North,Industrial,Construction,In Progress,Safety,Titan Builders,2025-10-04,2026-07-30,October,10,771294,803681,2,12
+P0494,Project_494,South,Industrial,Finishing,In Progress,Procurement,NextGen Infra,2025-08-11,2026-02-21,August,8,1541729,1655562,4,15
+P0495,Project_495,East,Commercial,Finishing,Completed,Engineering,Titan Builders,2025-06-07,2025-11-07,June,6,1064454,1001579,4,1
+P0496,Project_496,North,Industrial,Design,In Progress,Safety,Titan Builders,2025-10-01,2025-12-02,October,10,1642358,1926044,7,5
+P0497,Project_497,North,Commercial,Construction,Pending,Engineering,ABC Ltd,2025-10-08,2026-03-12,October,10,595462,591953,8,7
+P0498,Project_498,West,Residential,Design,Pending,Procurement,Skyline Co,2025-07-13,2025-11-06,July,7,751509,659617,3,9
+P0499,Project_499,East,Commercial,Finishing,Pending,Procurement,MegaConstruct,2025-07-31,2025-11-16,July,7,1989881,1739081,2,5
+P0500,Project_500,North,Industrial,Construction,Pending,Safety,MegaConstruct,2025-12-25,2026-08-01,December,12,1231790,1127982,0,3
