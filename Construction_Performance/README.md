@@ -26,7 +26,7 @@ This dashboard provides executive-level insights into:
 
 ## 🔗 Live Dashboard
 
-👉 [Click Here to View Interactive Dashboard](https://lookerstudio.google.com/reporting/ab05cb99-e2a3-4c27-815e-491b5ad5160c/page/EmVoF/edit)
+👉 [Click Here to View Interactive Dashboard](All-Profile-Project/Construction_Performance/Construction_Performance_Dashboard.pdf)
 
 
 ## Business Impact
