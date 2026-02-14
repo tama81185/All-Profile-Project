@@ -26,7 +26,7 @@ This dashboard provides executive-level insights into:
 
 ## 🔗 Live Dashboard
 
-👉 [Click Here to View Interactive Dashboard](All-Profile-Project/Construction_Performance/Construction_Performance_Dashboard.pdf)
+👉 [Click Here to View Interactive Dashboard](Construction_Performance_Dashboard.pdf)
 
 
 ## Business Impact
