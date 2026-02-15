@@ -48,62 +48,62 @@ The **Overview Page** provides a snapshot of the key metrics for all tracked pro
   
 ![Overview](images/overview.png)
 
-This page provides a comprehensive overview of the construction portfolio, enabling executives to monitor financial health, workload distribution, and safety performance at a glance.
+This page provides a comprehensive overview of the construction portfolio, enabling executives to monitor financial health, workload distribution and safety performance at a glance.
 
 ---
 
-# 2️⃣ Budget vs Cost Page: Comparing Project Budgets with Actual Costs
+# Budget vs Cost Page: Comparing Project Budgets with Actual Costs
 
 The **Budget vs Cost Page** allows management to compare allocated budgets against actual spending and detect cost overruns.
 
-## 📈 Charts
+## Charts
 
 - **Budget and Cost by Department** – Displays financial performance across Engineering, Safety, and Procurement.
 - **Budget and Cost by Project Type** – Compares financial performance across Industrial, Residential, and Commercial projects.
 - **Budget and Cost by Region** – Identifies regional financial discrepancies.
 - **Budget and Cost by Top 7 Contractors** – Evaluates contractor-level cost performance.
 
-📸 *(Insert Budget vs Cost Screenshot Here)*
+![Overview](images/cost.png)
 
 This page is essential for identifying overspending departments, high-cost regions, and contractors that consistently exceed budget expectations.
 
 ---
 
-# 3️⃣ Contractor & Department Performance Page
+# Contractor & Department Performance Page
 
 This page focuses on operational workload and contractor accountability.
 
-## 📈 Charts
+## Charts
 
 - **Projects by Contractor** – Identifies contractors managing the most projects.
 - **Safety Incidents by Contractor** – Highlights contractors with recurring safety issues.
 - **Projects by Department** – Shows workload distribution across departments.
 - **Budget Variance by Contractor** – Displays cost performance at contractor level.
 
-📸 *(Insert Contractor Performance Screenshot Here)*
+![Overview](images/department.png)
 
-This analysis supports better contractor evaluation, risk mitigation, and performance-based decision-making.
+This analysis supports better contractor evaluation, risk mitigation and performance-based decision-making.
 
 ---
 
-# 4️⃣ Safety & Risk Analysis Page
+# Safety & Risk Analysis Page
 
 The **Safety & Risk Analysis Page** provides insights into workplace safety trends and high-risk areas.
 
-## 📈 Charts
+## Charts
 
 - **Safety Incidents by Region** – Identifies high-risk geographic areas.
 - **Safety Incidents by Phase** – Analyzes risk exposure during Design, Construction, and Finishing.
 - **Safety Incidents by Project Type** – Determines which project categories face higher safety risks.
 - **Monthly Safety Trend** – Tracks safety incident patterns over time.
 
-📸 *(Insert Safety Analysis Screenshot Here)*
+![Overview](images/risk.png)
 
 This page enables proactive risk management and improved safety planning.
 
 ---
 
-# 📂 Dataset Information
+# Dataset Information
 
 **Dataset:** `construction.csv`
 
@@ -122,7 +122,7 @@ This page enables proactive risk management and improved safety planning.
 
 ---
 
-# 🎯 Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
 1. **Total Number of Projects** – Count of all projects in the dataset.
 2. **Total Budget** – Sum of allocated budgets across all projects.
@@ -132,7 +132,7 @@ This page enables proactive risk management and improved safety planning.
 
 ---
 
-# 💼 Business Impact
+# Business Impact
 
 This dashboard enables:
 
@@ -141,20 +141,20 @@ This dashboard enables:
 - Enhanced safety risk analysis  
 - Better resource allocation  
 - Data-driven executive decision-making  
-- Reduced reliance on manual reporting  
+
 
 ---
 
-# 🛠 Tools Used
+#  Tools Used
 
-- Looker Studio (Dashboard Development)
-- Excel / CSV Dataset
-- GitHub (Version Control & Documentation)
+- Looker Studio 
+- Excel 
+- GitHub 
 
 ---
 
-# 🚀 Conclusion
+# Conclusion
 
-The Construction Performance Analysis Dashboard centralizes financial, operational, and safety data into one interactive reporting system.  
+The Construction Performance Analysis Dashboard centralizes financial, operational and safety data into one interactive reporting system.  
 
-It enhances transparency, improves accountability, and supports strategic decision-making across the organization.
+It enhances transparency, improves accountability and supports strategic decision-making across the organization.
