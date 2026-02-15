@@ -45,8 +45,10 @@ The **Overview Page** provides a snapshot of the key metrics for all tracked pro
 - **# of Projects by Phase** – Categorizes projects by Design, Construction, and Finishing phases.
 - **# of Projects by Month Name** – Tracks project activity month-over-month.
 - **Cost per Project by Project Type** – Displays cost comparison across Industrial, Residential, and Commercial projects.
-
-![Overview](Construction_Performance/images/overview.png)
+  
+<p align="center">
+  <img src="Construction_Performance/images/overview.png" width="700">
+</p>
 
 This page provides a comprehensive overview of the construction portfolio, enabling executives to monitor financial health, workload distribution, and safety performance at a glance.
 
