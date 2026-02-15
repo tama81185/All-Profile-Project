@@ -18,8 +18,7 @@ This dashboard solves these challenges by providing a data-driven, visual report
 ---
 
 #  Live Dashboard  
-👉 **Click Here to View Interactive Dashboard**  
-(https://lookerstudio.google.com/reporting/ab05cb99-e2a3-4c27-815e-491b5ad5160c/page/EmVoF)
+👉 **[Click here to view the interactive dashboard](https://lookerstudio.google.com/reporting/ab05cb99-e2a3-4c27-815e-491b5ad5160c/page/EmVoF)**
 
 ---
 
