@@ -1,10 +1,10 @@
-# 🏗 Construction Performance Analysis Dashboard
+# Construction Performance Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
-This project analyzes construction project performance across multiple regions, departments, contractors, and project phases.  
+This project analyzes construction project performance across multiple regions, departments, contractors and project phases.  
 
-The objective is to provide centralized visibility into financial performance, safety incidents, contractor efficiency, and monthly operational trends through an interactive dashboard.
+The objective is to provide centralized visibility into financial performance, safety incidents, contractor efficiency and monthly operational trends through an interactive dashboard.
 
 Without a centralized reporting system:
 - Budget overruns are difficult to detect early.
@@ -17,21 +17,21 @@ This dashboard solves these challenges by providing a data-driven, visual report
 
 ---
 
-# 🔗 Live Dashboard  
+#  Live Dashboard  
 👉 **Click Here to View Interactive Dashboard**  
-(Paste your Looker Studio link here)
+(https://lookerstudio.google.com/reporting/ab05cb99-e2a3-4c27-815e-491b5ad5160c/page/EmVoF)
 
 ---
 
-# 📊 Dashboard Pages
+# Dashboard Pages
 
 ---
 
-# 1️⃣ Overview Page: High-Level Project Metrics
+#  Overview Page: High-Level Project Metrics
 
 The **Overview Page** provides a snapshot of the key metrics for all tracked projects.
 
-## 🔹 KPI Cards
+##  KPI Cards
 
 - **# of Projects** – Displays the total number of projects being tracked.
 - **Total Budget** – Sum of allocated budgets across all projects.
@@ -39,7 +39,7 @@ The **Overview Page** provides a snapshot of the key metrics for all tracked pro
 - **Cost per Project** – Average cost across projects.
 - **Safety Incidents** – Total number of reported workplace accidents across all projects.
 
-## 📈 Charts
+##  Charts
 
 - **# of Projects by Region** – Shows the number of projects by geographic region (North, South, East, West).
 - **# of Projects by Status** – Breaks down projects by their current status (Completed, In Progress, Pending).
@@ -47,7 +47,7 @@ The **Overview Page** provides a snapshot of the key metrics for all tracked pro
 - **# of Projects by Month Name** – Tracks project activity month-over-month.
 - **Cost per Project by Project Type** – Displays cost comparison across Industrial, Residential, and Commercial projects.
 
-📸 *(Insert Overview Screenshot Here)*
+📸 *
 
 This page provides a comprehensive overview of the construction portfolio, enabling executives to monitor financial health, workload distribution, and safety performance at a glance.
 
