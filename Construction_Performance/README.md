@@ -95,11 +95,26 @@ The **Safety & Risk Analysis Page** provides insights into workplace safety tren
 - **Safety Incidents by Region** – Identifies high-risk geographic areas.
 - **Safety Incidents by Phase** – Analyzes risk exposure during Design, Construction, and Finishing.
 - **Safety Incidents by Project Type** – Determines which project categories face higher safety risks.
-- **Monthly Safety Trend** – Tracks safety incident patterns over time.
+
 
 ![Overview](images/risk.png)
 
 This page enables proactive risk management and improved safety planning.
+
+---
+# Monthly Trend Analysis Page
+
+The **Monthly Trend Page** analyzes financial and safety performance over time to identify patterns, seasonality and improvement trends.
+
+## Charts
+
+- **Budget vs Cost by Month** – Tracks how actual costs compare to allocated budgets month-over-month.
+- **Monthly Safety Incidents Trend** – Identifies whether safety incidents increase during specific months.
+- **Average Resolution Time by Month** – Measures operational efficiency improvements over time.
+
+![Overview](images/trend.png)
+
+This page supports trend-based forecasting, seasonal planning and continuous performance improvement.
 
 ---
 
