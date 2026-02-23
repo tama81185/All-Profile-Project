@@ -1,4 +1,5 @@
-Customer Behavior Analysis
+# Customer Behavior Analysis
+
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
@@ -21,7 +22,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 - Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
 
-* This file contains:
+# This file contains:
 
 - Data Import
 
@@ -43,34 +44,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 - Connect the SQL Database to Power BI
 
-Open customer_behavior_dashboard.pbix
+- Open customer_behavior_dashboard.pbix
 
-Create interactive dashboard in Power BI
+- Create interactive dashboard in Power BI
 
-Create Project Report and Presentation
-
-Create project report
-
-Build presentation deck using Gamma AI
-
-Follow along with the YouTube video for full walkthrough. 👨‍💼
-
-📜 License
-MIT — feel free to fork, star, and use in your portfolio.
-
-👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator. I break down complex data topics into simple, practical content that actually helps you land a job.
-
-🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-🎥 YouTube: Amlan Mohanty
-
-Beginner-friendly tutorials, real-world projects, job and career advice
-📺 Instagram: datacareerschool
-
-Quick SQL tips, data memes, and behind-the-scenes content
-💼 LinkedIn: Amlan Mohanty
-
-Let’s connect professionally and grow your data career
-💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+- Create Project Report and Presentation
