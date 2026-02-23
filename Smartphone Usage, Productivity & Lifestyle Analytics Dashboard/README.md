@@ -1,21 +1,20 @@
-# 📱 Smartphone Usage, Productivity & Lifestyle Analytics Dashboard
+# Smartphone Usage, Productivity & Lifestyle Analytics Dashboard
 
-## 📘 Business Requirements Document (BRD)
+##  Business Requirements Document (BRD)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Project Title:** Smartphone Usage, Productivity & Lifestyle Analytics Dashboard  
-**Platform:** Google Looker Studio  
 **Dataset Size:** 50,000 Records  
 **Domain:** Behavioral & Lifestyle Analytics  
 
-This project delivers a multi-page analytical dashboard that explores how smartphone usage impacts productivity, stress levels and sleep behavior. The goal is to provide structured, data-driven insights to support digital wellness strategies and performance optimization.
+This project delivers an analytical dashboard that explores how smartphone usage impacts productivity, stress levels and sleep behavior. The goal is to provide structured, data-driven insights to support digital wellness strategies and performance optimization.
 
 ---
 
-## 🏢 Business Problem
+## Business Problem
 
 Excessive smartphone usage is increasingly affecting:
 
@@ -48,7 +47,7 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-## 📂 Data Source & Description
+##  Data Source & Description
 
 **Dataset:** `smartphone_usage_lifestyle_50k.csv`  
 **Total Records:** 50,000  
@@ -74,7 +73,7 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 ### Global Behavioral KPIs
 
@@ -94,9 +93,9 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-## ❓ Business Questions
+##  Business Questions
 
-### 📱 Smartphone Usage & Productivity
+### Smartphone Usage & Productivity
 
 - Which users have the highest and lowest daily phone usage?  
 - What is the average daily phone usage across all users?  
@@ -109,7 +108,7 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-### 😰 Stress & Mental Health
+### Stress & Mental Health
 
 - What is the average stress level across all users?  
 - How many users fall into each stress category (Low to High)?  
@@ -122,7 +121,7 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-### 😴 Sleep & Lifestyle Impact
+###  Sleep & Lifestyle Impact
 
 - What is the average sleep duration among users?  
 - How many users are sleep deprived (< 6 hours)?  
@@ -134,7 +133,7 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-### 📱 Device-Based Behavior Analysis
+###  Device-Based Behavior Analysis
 
 - How many users use Android vs iOS?  
 - Is there a difference in productivity between Android and iOS users?  
@@ -145,7 +144,7 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-### 📊 Behavioral Segmentation & Risk Identification
+### Behavioral Segmentation & Risk Identification
 
 - How many behavioral clusters can be identified?  
 - Which cluster has high phone usage and low productivity?  
@@ -156,7 +155,7 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-### 📈 Advanced Insights & Predictive Analysis
+### Advanced Insights & Predictive Analysis
 
 - What variables most strongly impact productivity?  
 - What variables most strongly influence stress levels?  
@@ -164,74 +163,3 @@ Without clear analytical insights, it is difficult to design effective productiv
 - Can productivity be reliably predicted using behavioral factors?  
 - Which behavioral variables should be prioritized for improvement strategies?  
 
----
-
-## 🗂 Dashboard Structure (7 Pages)
-
-1. Executive Overview  
-2. Productivity Analysis  
-3. Stress & Mental Health  
-4. Sleep & Lifestyle Impact  
-5. Device Comparison  
-6. Behavioral Segmentation  
-7. Advanced Insights & Correlation  
-
----
-
-## ⚙ Functional Requirements
-
-- Multi-page navigation  
-- Interactive filters (Age, Gender, Occupation, Device Type)  
-- Dynamic KPIs and scorecards  
-- Cross-filter interaction  
-- Correlation and regression visualization  
-- Clustering integration support  
-
----
-
-## 🔒 Non-Functional Requirements
-
-- Fast performance with 50,000 records  
-- Professional enterprise UI  
-- Mobile-responsive design  
-- Accurate metric calculations  
-- Secure sharing capability  
-
----
-
-## 📈 Expected Outcomes
-
-The dashboard will:
-
-- Identify productivity drivers  
-- Reveal stress risk patterns  
-- Demonstrate sleep impact on performance  
-- Compare device-based behavioral differences  
-- Segment users into actionable groups  
-- Support future machine learning integration  
-
----
-
-## ✅ Success Criteria
-
-The project will be successful if:
-
-- Clear relationships between usage, sleep, stress, and productivity are identified  
-- High-risk behavioral groups are visible  
-- Actionable insights can be derived  
-- Decision-makers can interpret KPIs easily  
-- The dashboard demonstrates professional analytical capability suitable for portfolio and research purposes  
-
----
-
-## 🚀 Future Enhancements
-
-- Real-time data integration  
-- Predictive ML model integration  
-- Automated risk alert system  
-- Personalized digital wellness scoring  
-- SaaS deployment version  
-
----
-
-**Author:** Behavioral Analytics & Machine Learning Portfolio Project
