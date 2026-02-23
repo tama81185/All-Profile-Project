@@ -10,7 +10,8 @@ This project is perfect for:
 - Watch this YouTube video to implement the full project from scratch:
 - Advanced Data Analysis Portfolio Project using Retail Customer Data 🔗 Link to Video: Watch on Youtube
 
-Project Overview
+## Project Overview :
+
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 - Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
