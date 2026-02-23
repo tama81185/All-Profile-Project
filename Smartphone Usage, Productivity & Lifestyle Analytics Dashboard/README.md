@@ -14,6 +14,12 @@ This project delivers an analytical dashboard that explores how smartphone usage
 
 ---
 
+
+#  Live Dashboard  
+👉 **[Click here to view the interactive dashboard](https://lookerstudio.google.com/reporting/2e7ec686-75fa-404e-a619-e6b069906ea0/page/ohmoF)**
+
+---
+
 ## Business Problem
 
 Excessive smartphone usage is increasingly affecting:
@@ -104,7 +110,9 @@ Without clear analytical insights, it is difficult to design effective productiv
 - Which occupation group has the highest productivity?  
 - Which age group demonstrates the strongest productivity levels?  
 - At what usage level does productivity begin to decline significantly?  
-- Which users could be candidates for productivity improvement programs?  
+- Which users could be candidates for productivity improvement programs?
+
+![Overview](images/overview.png)
 
 ---
 
@@ -117,7 +125,9 @@ Without clear analytical insights, it is difficult to design effective productiv
 - Is there a relationship between caffeine intake and stress?  
 - Does excessive phone usage correlate with higher stress?  
 - Which users are highly productive but also highly stressed?  
-- Which demographic group appears most at risk of burnout?  
+- Which demographic group appears most at risk of burnout?
+
+![Overview](images/overview.png)
 
 ---
 
