@@ -1,18 +1,8 @@
 # Customer Behavior Analysis
 
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
-
-This project is perfect for:
-
-- Data Analyst aspirants who want to build a strong Portfolio Project for interviews and LinkedIn
-- Anyone learning Python, SQL, and Power BI
-- Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
-- Watch this YouTube video to implement the full project from scratch:
-- Advanced Data Analysis Portfolio Project using Retail Customer Data 🔗 Link to Video: Watch on Youtube
-
 ## Project Overview :
 
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+This project analyzes customer behavior using historical data to uncover purchasing patterns, customer segments and engagement trends. The goal is to generate actionable insights that support data-driven marketing, personalization and customer retention strategies. The project demonstrates the ability to translate raw data into strategic business intelligence by:
 
 - Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
