@@ -1,6 +1,6 @@
 # Online Bookstore Sales & Product Analysis
 
-This repository contains a full project workflow for analyzing an online bookstore's book sales, pricing trends, customer ratings, and stock availability. The project includes web scraping, Python analysis, Business Requirements Document (BRD), business report, and presentation materials.
+This file contains a full project workflow for analyzing an online bookstore's book sales, pricing trends, customer ratings and stock availability. This project includes web scraping, Python analysis, Business Requirements Document (BRD), Business Report and presentation file.
 
 ---
 
@@ -12,24 +12,23 @@ The goal of this project is to help the online bookstore make **data-driven deci
 - Inventory management  
 - Marketing and promotional campaigns  
 
-Currently, the management lacks clear visibility into which books are popular, overpriced, or out of stock. This project addresses that gap using real data analysis and business insights.
+Currently, the management lacks clear visibility into which books are popular, overpriced or out of stock. This project addresses that gap using real data analysis and business insights.
+
+---
+## Dataset : books_dataset.csv
 
 ---
 
-
----
-
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Python**: pandas, numpy, requests, BeautifulSoup, matplotlib, seaborn, plotly  
 - **Jupyter Notebook**: For development and exploration  
-- **Looker Studio / Excel**: Dashboard and visualization  
 - **MS Word / PDF**: BRD and business report  
 - **PowerPoint / Google Slides**: Presentation  
 
 ---
 
-## 📊 Workflow
+##  Workflow
 
 ### 1. Web Scraping
 - Collect book data from online bookstore websites.
@@ -67,16 +66,7 @@ Currently, the management lacks clear visibility into which books are popular, o
 
 ---
 
-## 📌 Example KPI Insight
-
-**Price Analysis**:  
-- Observation: A few books are priced significantly higher than average; some books are very cheap.  
-- Business Impact: Extreme pricing can reduce sales or profits.  
-- Recommendation: Adjust pricing for underperforming high-priced books; use low-priced books for promotions or bundles.
-
----
-
-## 💻 How to Run
+## How to Run
 
 1. Clone the repository:
 
