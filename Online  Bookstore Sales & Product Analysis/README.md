@@ -81,5 +81,5 @@ Currently, the management lacks clear visibility into which books are popular, o
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Online-Bookstore-Analysis.git
-cd Online-Bookstore-Analysis
+git clone https://github.com/tama81185/All-Profile-Project.git
+cd "Online  Bookstore Sales & Product Analysis"
