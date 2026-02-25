@@ -68,7 +68,7 @@ Currently, the management lacks clear visibility into which books are popular, o
 
 ## How to Run
 
-1. Clone the repository:
+- Clone the repository:
 
 ```bash
 git clone https://github.com/tama81185/All-Profile-Project.git
