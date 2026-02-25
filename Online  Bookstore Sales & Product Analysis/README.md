@@ -4,7 +4,7 @@ This file contains a full project workflow for analyzing an online bookstore's b
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this project is to help the online bookstore make **data-driven decisions** regarding:
 
