@@ -83,6 +83,11 @@ Key EDA steps:
 - **Recall (Churn)**: 96%
 - **F1-Score (Churn)**: 95%
 
+Confusion Matrix:
+
+[[478 40]
+[ 27 625]]
+
 ---
 
 ## PCA Experiment
