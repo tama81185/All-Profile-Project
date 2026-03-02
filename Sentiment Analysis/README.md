@@ -1,257 +1,148 @@
-# Sentiment Analysis
+# Amazon Alexa Reviews — Sentiment Analysis
 
-##  Project Overview
-This project performs **sentiment analysis**  using machine learning techniques.  
-The goal is to predict whether a review is **positive (feedback = 1) or negative (feedback = 0)** based on the textual content of the verified reviews.
+## Project Overview
+This project implements an end-to-end machine learning pipeline to analyze Amazon Alexa product reviews and predict customer feedback (positive or negative) based on review text.
 
-The workflow includes **Exploratory Data Analysis (EDA), text preprocessing, feature extraction, model building (Random Forest, XGBoost, Decision Tree), evaluatio
----
-
-## 📊 Dataset Information
-- **Dataset**: Amazon Alexa Reviews
-- **Total Records**: 3,149 (after removing nulls)
-- **Total Features**: 5
-  - `rating` – rating given by user (1–5)
-  - `date` – review date
-  - `variation` – product variation
-  - `verified_reviews` – textual review
-  - `feedback` – target variable (0 = negative, 1 = positive)
-- **Target Variable**: `feedback`  
-
-**Class Distribution**:  
-- Positive reviews: 91.87%  
-- Negative reviews: 8.13%
+The workflow includes Exploratory Data Analysis (EDA), data cleaning, text preprocessing, feature extraction using Bag-of-Words, model training, evaluation, hyperparameter tuning and model serialization.
 
 ---
 
-## 🛠️ Technologies & Libraries Used
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn, WordCloud  
-- NLTK (stopwords, PorterStemmer)  
-- Scikit-learn (RandomForestClassifier, DecisionTreeClassifier, MinMaxScaler, CountVectorizer, cross_val_score, GridSearchCV)  
-- XGBoost (XGBClassifier)  
-- Pickle (model serialization)
+## Dataset Information
+- **Dataset:** Amazon Alexa Reviews (`amazon_alexa.tsv`)
+- **Total Records:** 3,150 (3,149 after removing null values)
+- **Total Features:** 5 original features + 1 engineered feature
+- **Target Variable:** Feedback (0 = Negative, 1 = Positive)
+
+### Features
+- `rating` — Product rating (1–5)
+- `date` — Review date
+- `variation` — Product variation/type
+- `verified_reviews` — Review text
+- `feedback` — Sentiment label
+- `length` — Length of review text (engineered feature)
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
-Key steps performed:
-- Checked for null values and dropped 1 record with missing `verified_reviews`
-- Created `length` column to store the length of each review
-- Analyzed `rating` column:
-  - Most reviews are 5-star (72.59%)
-  - Ratings 1–2 correlate with negative feedback; 3–5 with positive feedback
-- Analyzed `variation` column to understand product types
-- Created bar plots, pie charts, and histograms for ratings, feedback, review lengths, and variations
-- Generated **WordClouds** for all reviews, positive reviews, and negative reviews
-  - Negative words: garbage, pointless, poor, horrible, repair
-  - Positive words: good, enjoying, amazing, best, great
+## Technologies & Libraries Used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- NLTK
+- Scikit-learn
+- XGBoost
+- WordCloud
+- Pickle
 
 ---
 
-## 📝 Text Preprocessing
-Steps applied to `verified_reviews`:
-1. Remove non-alphabet characters
-2. Convert to lowercase
-3. Tokenize and remove stopwords
-4. Apply **Porter Stemming**
-5. Combine processed words into cleaned corpus
+## Exploratory Data Analysis (EDA)
 
-Used **CountVectorizer** to create Bag-of-Words features (max 2500 features)  
-Saved CountVectorizer for deployment as `Models/countVectorizer.pkl`.
-
----
-
-## ⚙️ Data Preparation
-- Target variable: `feedback`
-- Split dataset into train (70%) and test (30%) sets
-- Applied **MinMaxScaler** to scale features between 0 and 1
-- Saved scaler for deployment as `Models/scaler.pkl`
+### Key EDA Steps
+- Checked dataset structure, feature names and data types
+- Removed one record with missing review text
+- Created a new feature: review length
+- Analyzed distributions of ratings, feedback and product variations
+- Visualized:
+  - Rating distribution
+  - Feedback distribution
+  - Variation distribution
+  - Review length distribution
+- Generated word clouds for:
+  - All reviews
+  - Negative reviews
+  - Positive reviews
 
 ---
 
-## 🤖 Model Building
-
-### Random Forest Classifier
-- Trained on scaled training data
-- Achieved high accuracy on train and test sets
-- Performed **K-Fold Cross Validation** (cv = 10)
-- Applied **GridSearchCV** for hyperparameter tuning
-- Confusion Matrix visualized
-
-### XGBoost Classifier
-- Trained on scaled training data
-- High accuracy on train and test sets
-- Confusion matrix visualized
-- Saved model as `Models/model_xgb.pkl`
-
-### Decision Tree Classifier
-- Trained on scaled training data
-- Moderate performance compared to Random Forest and XGBoost
-- Confusion matrix visualized
+## Key Insights
+- Most reviews are highly positive (over 90% positive feedback)
+- Ratings of 1–2 correspond to negative feedback
+- Ratings of 3–5 correspond to positive feedback
+- Certain product variations received more reviews than others
+- Positive reviews commonly contain words like:
+  - good, amazing, best, great
+- Negative reviews commonly contain words like:
+  - garbage, poor, horrible, repair
 
 ---
 
-## 📈 Model Performance
+## Data Preprocessing & Feature Engineering
 
-| Model             | Training Accuracy | Testing Accuracy |
-|------------------|-----------------|----------------|
-| Random Forest     | High (~>90%)    | High (~>90%)   |
-| XGBoost           | High (~>90%)    | High (~>90%)   |
-| Decision Tree     | Moderate        | Moderate       |
+### Text Processing Steps
+- Removed non-alphabet characters
+- Converted text to lowercase
+- Removed English stopwords
+- Applied stemming using Porter Stemmer
+- Built a corpus of cleaned reviews
 
-**Observations:**
-- Random Forest and XGBoost outperform Decision Tree
-- Text preprocessing and feature extraction critical for model performance
-- Positive feedback dominates dataset; class imbalance should be considered for deployment
-
----
-
-## 💾 Model Saving
-- **CountVectorizer** → `Models/countVectorizer.pkl`
-- **Scaler** → `Models/scaler.pkl`
-- **XGBoost model** → `Models/model_xgb.pkl`
+### Feature Extraction
+- Used **CountVectorizer** (Bag-of-Words)
+- Limited vocabulary to top 2,500 words
+- Scaled features using **MinMaxScaler**
 
 ---
 
-## ✅ Conclusion
-- Successfully implemented **sentiment analysis** for Amazon Alexa reviews
-- Performed **EDA**, **text preprocessing**, **feature extraction**, and **model building**
-- **XGBoost** selected as final model for deployment due to high accuracy
-- Visualized key insights via bar plots, pie charts, histograms, and word clouds
+## Model Building
+
+### Models Implemented
+- Random Forest Classifier
+- XGBoost Classifier
+- Decision Tree Classifier
+
+### Train-Test Split
+- 70% Training
+- 30% Testing
 
 ---
 
-## 🚀 Future Enhancements
-- Apply **SMOTE or class balancing** to improve negative review detection
-- Implement **TF-IDF** or **word embeddings** for better feature representation
-- Deploy model using **Flask / FastAPI** for real-time prediction
-- Build **interactive dashboards** for insights visualization, and model serialization**.
+## Model Performance
+
+### Random Forest
+- Training Accuracy: **99.41%**
+- Testing Accuracy: **94.18%**
+
+### XGBoost
+- Training Accuracy: **97.19%**
+- Testing Accuracy: **93.76%**
+
+### Decision Tree
+- Training Accuracy: **99.41%**
+- Testing Accuracy: **91.96%**
 
 ---
 
+## Cross-Validation & Hyperparameter Tuning
+
+### Random Forest Cross-Validation
+- Mean Accuracy: **93.28%**
+- Standard Deviation: **0.006**
+
+### Best Parameters (Grid Search)
+- bootstrap: True
+- max_depth: 80
+- min_samples_split: 8
+- n_estimators: 100
 
 ---
 
-## 📊 Dataset Information
-- **Dataset**: Amazon Alexa Reviews
-- **Total Records**: 3,149 (after removing nulls)
-- **Total Features**: 5
-  - `rating` – rating given by user (1–5)
-  - `date` – review date
-  - `variation` – product variation
-  - `verified_reviews` – textual review
-  - `feedback` – target variable (0 = negative, 1 = positive)
-- **Target Variable**: `feedback`  
+## Model Saving
+Saved components using Pickle:
 
-**Class Distribution**:  
-- Positive reviews: 91.87%  
-- Negative reviews: 8.13%
+- Count Vectorizer → `countVectorizer.pkl`
+- Scaler → `scaler.pkl`
+- XGBoost Model → `model_xgb.pkl`
+
+Models are ready for reuse and deployment.
 
 ---
 
-## 🛠️ Technologies & Libraries Used
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn, WordCloud  
-- NLTK (stopwords, PorterStemmer)  
-- Scikit-learn (RandomForestClassifier, DecisionTreeClassifier, MinMaxScaler, CountVectorizer, cross_val_score, GridSearchCV)  
-- XGBoost (XGBClassifier)  
-- Pickle (model serialization)
+## Conclusion
+Successfully built a machine learning system to classify Amazon Alexa reviews as positive or negative using text data.
 
----
+The project demonstrates:
 
-## 🔍 Exploratory Data Analysis (EDA)
-Key steps performed:
-- Checked for null values and dropped 1 record with missing `verified_reviews`
-- Created `length` column to store the length of each review
-- Analyzed `rating` column:
-  - Most reviews are 5-star (72.59%)
-  - Ratings 1–2 correlate with negative feedback; 3–5 with positive feedback
-- Analyzed `variation` column to understand product types
-- Created bar plots, pie charts, and histograms for ratings, feedback, review lengths, and variations
-- Generated **WordClouds** for all reviews, positive reviews, and negative reviews
-  - Negative words: garbage, pointless, poor, horrible, repair
-  - Positive words: good, enjoying, amazing, best, great
-
----
-
-## 📝 Text Preprocessing
-Steps applied to `verified_reviews`:
-1. Remove non-alphabet characters
-2. Convert to lowercase
-3. Tokenize and remove stopwords
-4. Apply **Porter Stemming**
-5. Combine processed words into cleaned corpus
-
-Used **CountVectorizer** to create Bag-of-Words features (max 2500 features)  
-Saved CountVectorizer for deployment as `Models/countVectorizer.pkl`.
-
----
-
-## ⚙️ Data Preparation
-- Target variable: `feedback`
-- Split dataset into train (70%) and test (30%) sets
-- Applied **MinMaxScaler** to scale features between 0 and 1
-- Saved scaler for deployment as `Models/scaler.pkl`
-
----
-
-## 🤖 Model Building
-
-### Random Forest Classifier
-- Trained on scaled training data
-- Achieved high accuracy on train and test sets
-- Performed **K-Fold Cross Validation** (cv = 10)
-- Applied **GridSearchCV** for hyperparameter tuning
-- Confusion Matrix visualized
-
-### XGBoost Classifier
-- Trained on scaled training data
-- High accuracy on train and test sets
-- Confusion matrix visualized
-- Saved model as `Models/model_xgb.pkl`
-
-### Decision Tree Classifier
-- Trained on scaled training data
-- Moderate performance compared to Random Forest and XGBoost
-- Confusion matrix visualized
-
----
-
-## 📈 Model Performance
-
-| Model             | Training Accuracy | Testing Accuracy |
-|------------------|-----------------|----------------|
-| Random Forest     | High (~>90%)    | High (~>90%)   |
-| XGBoost           | High (~>90%)    | High (~>90%)   |
-| Decision Tree     | Moderate        | Moderate       |
-
-**Observations:**
-- Random Forest and XGBoost outperform Decision Tree
-- Text preprocessing and feature extraction critical for model performance
-- Positive feedback dominates dataset; class imbalance should be considered for deployment
-
----
-
-## 💾 Model Saving
-- **CountVectorizer** → `Models/countVectorizer.pkl`
-- **Scaler** → `Models/scaler.pkl`
-- **XGBoost model** → `Models/model_xgb.pkl`
-
----
-
-## ✅ Conclusion
-- Successfully implemented **sentiment analysis** for Amazon Alexa reviews
-- Performed **EDA**, **text preprocessing**, **feature extraction**, and **model building**
-- **XGBoost** selected as final model for deployment due to high accuracy
-- Visualized key insights via bar plots, pie charts, histograms, and word clouds
-
----
-
-## 🚀 Future Enhancements
-- Apply **SMOTE or class balancing** to improve negative review detection
-- Implement **TF-IDF** or **word embeddings** for better feature representation
-- Deploy model using **Flask / FastAPI** for real-time prediction
-- Build **interactive dashboards** for insights visualization
+- Effective text preprocessing
+- Feature extraction using Bag-of-Words
+- Comparison of multiple classification algorithms
+- Hyperparameter tuning for improved performance
+- Deployment-ready saved models
