@@ -1,6 +1,6 @@
 #  Customer Churn Prediction 
 
-## 📌 Project Overview
+##  Project Overview
 This project implements an **end-to-end machine learning pipeline** to analyze customer behavior and predict churn using the Telco Customer Churn dataset.
 
 The workflow includes **Exploratory Data Analysis (EDA), data cleaning, feature engineering, handling class imbalance, model building, evaluation and model serialization**.
