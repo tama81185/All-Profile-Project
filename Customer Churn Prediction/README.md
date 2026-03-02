@@ -33,7 +33,7 @@ Key EDA steps:
 - Removed records with missing values (<0.2%)
 - Created tenure-based customer groups
 - Analyzed churn distribution (imbalanced: 73% No, 27% Yes)
-- Visualized churn patterns across contracts, services, tenure, and charges
+- Visualized churn patterns across contracts, services, tenure and charges
 
 ### Key Insights
 - High churn observed for:
