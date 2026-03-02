@@ -83,3 +83,24 @@ Key EDA steps:
 - **Recall (Churn)**: 96%
 - **F1-Score (Churn)**: 95%
 
+---
+
+## PCA Experiment
+- Applied PCA retaining 90% variance
+- Observed performance degradation
+- Finalized the model without PCA
+
+---
+
+##  Model Saving
+- Final model saved using Pickle as `model.sav`
+- Model is ready for deployment and API integration
+
+---
+
+##  Conclusion
+- Successfully built a high-performing customer churn prediction model
+- Addressed class imbalance using SMOTEENN
+- Identified key business drivers influencing customer churn
+- Delivered a deployment-ready machine learning solution
+
