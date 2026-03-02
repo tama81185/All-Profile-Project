@@ -73,8 +73,8 @@ Key EDA steps:
 ###  Before SMOTEENN
 | Model | Accuracy | Recall (Churn) |
 |------|----------|----------------|
-| Decision Tree | ~92% | ~92% |
-| Random Forest | ~92% | ~93% |
+| Decision Tree | ~78% | ~49% |
+| Random Forest | ~80% | ~45% |
 
 ### After SMOTEENN (Final Model)
 **Random Forest + SMOTEENN**
