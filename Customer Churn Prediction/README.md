@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction 
+#  Customer Churn Prediction 
 
 ## 📌 Project Overview
 This project implements an **end-to-end machine learning pipeline** to analyze customer behavior and predict churn using the Telco Customer Churn dataset.
