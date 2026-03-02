@@ -1,12 +1,12 @@
 
-# 🍕 Pizza Sales Analysis Project
+#  Pizza Sales Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing historical pizza sales data to uncover sales trends, customer ordering behavior, and product performance. The goal is to support restaurant management in making **data-driven decisions** related to pricing, promotions, inventory planning, and menu optimization.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 The pizza restaurant lacks clear visibility into:
 - Best-selling and underperforming pizzas
 - Seasonal and time-based sales fluctuations
@@ -17,7 +17,7 @@ This makes it difficult to optimize the menu, manage inventory efficiently, and 
 
 ---
 
-## ✅ Business Objectives
+##  Business Objectives
 The objectives of this analysis are to:
 - Identify **top-performing and low-performing pizzas**
 - Measure **total revenue** and **average order value (AOV)**
@@ -28,12 +28,12 @@ The objectives of this analysis are to:
 
 ---
 
-## 📂 Data Source
+##  Data Source
 - **Dataset Name:** `pizza_sales.csv`
 
 ---
 
-## 🧾 Data Description
+##  Data Description
 | Column Name | Description |
 |------------|-------------|
 | order_id | Unique identifier for each customer order |
@@ -51,7 +51,7 @@ The objectives of this analysis are to:
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 - **Total Revenue** = Sum of `total_price`
 - **Total Pizzas Sold** = Sum of `quantity`
 - **Total Orders** = Count of unique `order_id`
@@ -60,7 +60,7 @@ The objectives of this analysis are to:
 
 ---
 
-## ❓ Business Questions Answered
+##  Business Questions Answered
 - Which pizzas sell the **most and least** by quantity?
 - What is the **monthly total revenue and average order value**?
 - On which **days of the week** and **hours of the day** are orders highest?
@@ -77,7 +77,7 @@ The objectives of this analysis are to:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Python**
 - **Pandas** – Data cleaning and analysis
 - **NumPy** – Numerical operations
@@ -86,7 +86,7 @@ The objectives of this analysis are to:
 
 ---
 
-## 📈 Analysis & Visualizations
+##  Analysis & Visualizations
 The project includes:
 - Sales trends over time (daily, monthly)
 - Revenue and order volume analysis
@@ -97,21 +97,10 @@ The project includes:
 
 ---
 
-## 📌 Key Insights (Example)
-- Certain pizza sizes and categories dominate total revenue
-- Clear peak ordering times during lunch and dinner hours
-- A small number of pizzas generate a large portion of total revenue
-- Seasonal demand fluctuations suggest targeted promotions
-
----
-
-## 🚀 Business Recommendations
+##  Business Recommendations
 - Focus promotions on **high-performing pizzas**
 - Re-evaluate or redesign **low-performing menu items**
 - Optimize inventory based on **peak hours and popular ingredients**
 - Introduce time-based offers during **off-peak hours**
 - Adjust pricing strategies using **AOV and profitability insights**
 
----
-
-## 📁 Project Structure
