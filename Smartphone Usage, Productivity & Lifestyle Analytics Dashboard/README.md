@@ -91,10 +91,10 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ### Risk & Performance KPIs
 
-- Heavy Phone Usage Rate (>7 hours/day)  
-- High Productivity Rate (>7 score)  
-- High Stress Rate (>7 score)  
-- Sleep Deprivation Rate (<6 hours)  
+- Heavy Phone Usage Rate 
+- High Productivity Rate  
+- High Stress Rate  
+- Sleep Deprivation Rate 
 - Device Distribution (%)  
 
 ---
@@ -127,7 +127,6 @@ Without clear analytical insights, it is difficult to design effective productiv
 - Which users are highly productive but also highly stressed?  
 - Which demographic group appears most at risk of burnout?
 
-![Overview](images/overview.png)
 
 ---
 
@@ -171,5 +170,18 @@ Without clear analytical insights, it is difficult to design effective productiv
 - What variables most strongly influence stress levels?  
 - Is sleep a stronger predictor of productivity than phone usage?  
 - Can productivity be reliably predicted using behavioral factors?  
-- Which behavioral variables should be prioritized for improvement strategies?  
+- Which behavioral variables should be prioritized for improvement strategies?
+
+
+---
+
+# Dashboard Pages
+
+## 1. Overview Page: High-Level Project Metrics
+
+The Overview Dashboard provides a high-level summary of smartphone usage behavior, productivity performance, stress levels, sleep patterns and overall lifestyle balance across all users. This page helps stakeholders quickly understand the overall behavioral trends and identify major risk indicators.
+
+![Overview](images/overview.png)
+
+--- 
 
