@@ -180,7 +180,7 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 The Overview Dashboard provides a high-level summary of smartphone usage behavior, productivity performance, stress levels, sleep patterns and overall lifestyle balance across all users. This page helps stakeholders quickly understand the overall behavioral trends and identify major risk indicators.
 
-![Overview](images/overview.png)
+![Overview](images/1.png)
 
 --- 
 
