@@ -112,7 +112,6 @@ Without clear analytical insights, it is difficult to design effective productiv
 - At what usage level does productivity begin to decline significantly?  
 - Which users could be candidates for productivity improvement programs?
 
-![Overview](images/overview.png)
 
 ---
 
