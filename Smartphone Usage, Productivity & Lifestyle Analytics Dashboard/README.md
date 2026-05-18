@@ -227,27 +227,35 @@ This section demonstrates the relationship between smartphone dependency, stress
 
 ---
 
-# 2. Productivity Dashboard
+# 2. Device & Usage Behavior & Stress Analytics
 
 The Productivity Dashboard focuses on productivity-related behavior influenced by smartphone usage.
 
-![Productivity Dashboard](images/productivity_dashboard.png)
+![Productivity Dashboard](images/7.png)
 
 ---
 
-# 3. Stress Analysis Dashboard
+![Productivity Dashboard](images/6.png)
+
+---
+
+# 3. Behavioral Clustering Analytics
 
 The Stress Dashboard identifies stress-related behavioral trends among users.
 
-![Stress Dashboard](images/stress_dashboard.png)
+![Stress Dashboard](images/8.png)
 
 ---
 
-# 4. Sleep Pattern Dashboard
+# 4. Predictive Modeling & Corrlation insights
 
 The Sleep Dashboard visualizes sleep deprivation, sleep quality, and late-night smartphone usage patterns.
 
-![Sleep Dashboard](images/sleep_dashboard.png)
+![Sleep Dashboard](images/9.png)
+
+---
+
+![Sleep Dashboard](images/10.png)
 
 ---
 
