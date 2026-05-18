@@ -205,7 +205,7 @@ This section compares smartphone usage behavior with productivity levels and lif
 
 ## Stress and Mental Health  Analysis
 
-This section visualizes user stress level distribution 
+This section visualizes user stress level distribution, mental health patterns, and the impact of smartphone usage on stress-related behavior.
 
 ![Usage Analysis](images/3.png)
 
@@ -217,7 +217,7 @@ This section visualizes user stress level distribution
 
 ## Sleep  and Lifestyle Analysis
 
-This section demonstrates the relationship between smartphone dependency, stress level, and sleep deprivation patterns.
+This section demonstrates the relationship between smartphone dependency, stress levels, sleep quality, and lifestyle balance patterns.
 
 ![Sleep  and Lifestyle Analysis](images/5.png)
 
@@ -229,7 +229,7 @@ This section demonstrates the relationship between smartphone dependency, stress
 
 # 2. Device & Usage Behavior & Stress Analytics
 
-The Productivity Dashboard focuses on productivity-related behavior influenced by smartphone usage.
+This dashboard analyzes smartphone usage behavior based on device type and evaluates its relationship with stress levels, social media activity, and weekend screen time patterns.
 
 ![Productivity Dashboard](images/7.png)
 
@@ -239,17 +239,20 @@ The Productivity Dashboard focuses on productivity-related behavior influenced b
 
 ---
 
-# 3. Behavioral Clustering Analytics
+# Behavioral Clustering Analytics
+This page identifies behavioral user groups using clustering analysis techniques. Users are categorized based on smartphone usage behavior, stress levels, productivity performance, and sleep quality.
 
-The Stress Dashboard identifies stress-related behavioral trends among users.
+![Behavioral Clustering Analytics](images/8.png)
+
 
 ![Stress Dashboard](images/8.png)
 
 ---
 
-# 4. Predictive Modeling & Corrlation insights
+# Predictive Modeling & Corrlation insights
 
-The Sleep Dashboard visualizes sleep deprivation, sleep quality, and late-night smartphone usage patterns.
+This dashboard presents predictive analytics and correlation-based insights related to smartphone usage, stress, productivity, and sleep behavior.
+
 
 ![Sleep Dashboard](images/9.png)
 
@@ -261,7 +264,7 @@ The Sleep Dashboard visualizes sleep deprivation, sleep quality, and late-night 
 
 # Conclusion
 
-The dashboard analysis reveals that excessive smartphone usage significantly impacts productivity, stress levels, and sleep quality. The visualization system helps identify behavioral risk patterns and supports data-driven decision making for digital wellbeing analysis.
+The dashboard analysis reveals that excessive smartphone usage significantly impacts productivity, stress levels, sleep quality, and overall lifestyle balance. The visualization system helps identify behavioral risk patterns and supports data-driven decision-making for digital wellbeing analysis and human performance monitoring.
 
 ---
 
