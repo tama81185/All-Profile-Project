@@ -174,17 +174,9 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-# Dashboard Pages
-
-## 1. Overview Page: High-Level Project Metrics
-
-The Overview Dashboard provides a high-level summary of smartphone usage behavior, productivity performance, stress levels, sleep patterns and overall lifestyle balance across all users. This page helps stakeholders quickly understand the overall behavioral trends and identify major risk indicators.
-
-# Smartphone Usage Analytics Dashboard
-
 ## Project Overview
 
-This project analyzes smartphone usage behavior, productivity performance, stress levels, sleep deprivation, and lifestyle balance using interactive dashboards and data visualization techniques.
+This project analyzes smartphone usage behavior, productivity performance, stress levels, sleep deprivation and lifestyle balance using interactive dashboards and data visualization techniques.
 
 ---
 
@@ -192,26 +184,13 @@ This project analyzes smartphone usage behavior, productivity performance, stres
 
 ## 1. Overview Dashboard
 
-The Overview Dashboard provides a high-level summary of smartphone usage behavior, productivity performance, stress levels, sleep patterns, and overall lifestyle balance across all users. This page helps stakeholders quickly understand behavioral trends and identify major risk indicators.
+The Overview Dashboard provides a high-level summary of smartphone usage behavior, productivity performance, stress levels, sleep patterns and overall lifestyle balance across all users. This page helps stakeholders quickly understand behavioral trends and identify major risk indicators.
 
 ---
 
 ## Full Dashboard View
 
-![Overview Dashboard](images/overview_full.png)
-
----
-
-## KPI Summary Section
-
-The KPI section highlights major project metrics including:
-- Heavy Phone Usage Rate
-- High Productivity Rate
-- High Stress Rate
-- Sleep Deprivation Rate
-- Device Distribution Percentage
-
-![KPI Summary](images/kpi_summary.png)
+![Overview Dashboard](images/1.png)
 
 ---
 
@@ -279,13 +258,3 @@ The dashboard analysis reveals that excessive smartphone usage significantly imp
 - Power BI / Looker Studio
 - Jupyter Notebook
 
----
-
-# Export Instructions
-
-For best PDF quality:
-- Export dashboard screenshots in PNG format
-- Use consistent image dimensions
-- Use 100% browser zoom
-- Maintain equal spacing and alignment
-- Export final document as PDF
