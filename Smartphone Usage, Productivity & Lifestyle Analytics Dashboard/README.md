@@ -199,10 +199,10 @@ The Overview Dashboard provides a high-level summary of smartphone usage behavio
 ![Overview](images/5.png)
 
 --- 
-![Overview](images/6.png)
+![Overview](images/7.png)
 
 --- 
-![Overview](images/7.png)
+![Overview](images/6.png)
 
 --- 
 ![Overview](images/8.png)
