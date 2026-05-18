@@ -174,6 +174,7 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
+
 ## Project Overview
 
 This project analyzes smartphone usage behavior, productivity performance, stress levels, sleep deprivation and lifestyle balance using interactive dashboards and data visualization techniques.
@@ -182,15 +183,15 @@ This project analyzes smartphone usage behavior, productivity performance, stres
 
 # Dashboard Pages
 
-## 1. Overview Dashboard
+## Overview 
 
 The Overview Dashboard provides a high-level summary of smartphone usage behavior, productivity performance, stress levels, sleep patterns and overall lifestyle balance across all users. This page helps stakeholders quickly understand behavioral trends and identify major risk indicators.
 
 ---
 
-## Full Dashboard View
+## Overview page
 
-![Overview Dashboard](images/1.png)
+![Overview page](images/1.png)
 
 ---
 
