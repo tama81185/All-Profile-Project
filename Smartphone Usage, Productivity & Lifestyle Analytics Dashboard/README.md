@@ -195,27 +195,35 @@ The Overview Dashboard provides a high-level summary of smartphone usage behavio
 
 ---
 
-## Smartphone Usage Analysis
-
-This section visualizes user smartphone activity patterns, application usage duration, and screen time behavior.
-
-![Usage Analysis](images/usage_analysis.png)
-
----
-
-## Productivity & Lifestyle Analysis
+## Productivity  Analysis
 
 This section compares smartphone usage behavior with productivity levels and lifestyle balance indicators.
 
-![Productivity Analysis](images/productivity_analysis.png)
+![Productivity Analysis](images/2.png)
 
 ---
 
-## Stress & Sleep Analysis
+## Stress and Mental Health  Analysis
+
+This section visualizes user stress level distribution 
+
+![Usage Analysis](images/3.png)
+
+---
+
+![Usage Analysis](images/4.png)
+
+---
+
+## Sleep  and Lifestyle Analysis
 
 This section demonstrates the relationship between smartphone dependency, stress level, and sleep deprivation patterns.
 
-![Stress and Sleep Analysis](images/stress_sleep_analysis.png)
+![Sleep  and Lifestyle Analysis](images/5.png)
+
+---
+
+![Sleep  and Lifestyle Analysis](images/11.png)
 
 ---
 
