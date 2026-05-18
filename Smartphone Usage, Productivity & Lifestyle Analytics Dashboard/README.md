@@ -180,14 +180,112 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 The Overview Dashboard provides a high-level summary of smartphone usage behavior, productivity performance, stress levels, sleep patterns and overall lifestyle balance across all users. This page helps stakeholders quickly understand the overall behavioral trends and identify major risk indicators.
 
-![Overview](images/1.png)
-![Overview](images/2.png)
-![Overview](images/3.png)
-![Overview](images/4.png)
-![Overview](images/5.png)
-![Overview](images/11.png)
-![Overview](images/7.png)
-![Overview](images/6.png)
-![Overview](images/8.png)
-![Overview](images/9.png)
-![Overview](images/10.png)
+# Smartphone Usage Analytics Dashboard
+
+## Project Overview
+
+This project analyzes smartphone usage behavior, productivity performance, stress levels, sleep deprivation, and lifestyle balance using interactive dashboards and data visualization techniques.
+
+---
+
+# Dashboard Pages
+
+## 1. Overview Dashboard
+
+The Overview Dashboard provides a high-level summary of smartphone usage behavior, productivity performance, stress levels, sleep patterns, and overall lifestyle balance across all users. This page helps stakeholders quickly understand behavioral trends and identify major risk indicators.
+
+---
+
+## Full Dashboard View
+
+![Overview Dashboard](images/overview_full.png)
+
+---
+
+## KPI Summary Section
+
+The KPI section highlights major project metrics including:
+- Heavy Phone Usage Rate
+- High Productivity Rate
+- High Stress Rate
+- Sleep Deprivation Rate
+- Device Distribution Percentage
+
+![KPI Summary](images/kpi_summary.png)
+
+---
+
+## Smartphone Usage Analysis
+
+This section visualizes user smartphone activity patterns, application usage duration, and screen time behavior.
+
+![Usage Analysis](images/usage_analysis.png)
+
+---
+
+## Productivity & Lifestyle Analysis
+
+This section compares smartphone usage behavior with productivity levels and lifestyle balance indicators.
+
+![Productivity Analysis](images/productivity_analysis.png)
+
+---
+
+## Stress & Sleep Analysis
+
+This section demonstrates the relationship between smartphone dependency, stress level, and sleep deprivation patterns.
+
+![Stress and Sleep Analysis](images/stress_sleep_analysis.png)
+
+---
+
+# 2. Productivity Dashboard
+
+The Productivity Dashboard focuses on productivity-related behavior influenced by smartphone usage.
+
+![Productivity Dashboard](images/productivity_dashboard.png)
+
+---
+
+# 3. Stress Analysis Dashboard
+
+The Stress Dashboard identifies stress-related behavioral trends among users.
+
+![Stress Dashboard](images/stress_dashboard.png)
+
+---
+
+# 4. Sleep Pattern Dashboard
+
+The Sleep Dashboard visualizes sleep deprivation, sleep quality, and late-night smartphone usage patterns.
+
+![Sleep Dashboard](images/sleep_dashboard.png)
+
+---
+
+# Conclusion
+
+The dashboard analysis reveals that excessive smartphone usage significantly impacts productivity, stress levels, and sleep quality. The visualization system helps identify behavioral risk patterns and supports data-driven decision making for digital wellbeing analysis.
+
+---
+
+# Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI / Looker Studio
+- Jupyter Notebook
+
+---
+
+# Export Instructions
+
+For best PDF quality:
+- Export dashboard screenshots in PNG format
+- Use consistent image dimensions
+- Use 100% browser zoom
+- Maintain equal spacing and alignment
+- Export final document as PDF
