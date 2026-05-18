@@ -174,7 +174,6 @@ Without clear analytical insights, it is difficult to design effective productiv
 
 ---
 
-
 ## Project Overview
 
 This project analyzes smartphone usage behavior, productivity performance, stress levels, sleep deprivation and lifestyle balance using interactive dashboards and data visualization techniques.
@@ -183,7 +182,7 @@ This project analyzes smartphone usage behavior, productivity performance, stres
 
 # Dashboard Pages
 
-## Overview 
+## Overview
 
 The Overview Dashboard provides a high-level summary of smartphone usage behavior, productivity performance, stress levels, sleep patterns and overall lifestyle balance across all users. This page helps stakeholders quickly understand behavioral trends and identify major risk indicators.
 
@@ -195,7 +194,7 @@ The Overview Dashboard provides a high-level summary of smartphone usage behavio
 
 ---
 
-## Productivity  Analysis
+## Productivity Analysis
 
 This section compares smartphone usage behavior with productivity levels and lifestyle balance indicators.
 
@@ -203,7 +202,7 @@ This section compares smartphone usage behavior with productivity levels and lif
 
 ---
 
-## Stress and Mental Health  Analysis
+## Stress and Mental Health Analysis
 
 This section visualizes user stress level distribution, mental health patterns, and the impact of smartphone usage on stress-related behavior.
 
@@ -215,15 +214,15 @@ This section visualizes user stress level distribution, mental health patterns, 
 
 ---
 
-## Sleep  and Lifestyle Analysis
+## Sleep and Lifestyle Analysis
 
 This section demonstrates the relationship between smartphone dependency, stress levels, sleep quality, and lifestyle balance patterns.
 
-![Sleep  and Lifestyle Analysis](images/5.png)
+![Sleep and Lifestyle Analysis](images/5.png)
 
 ---
 
-![Sleep  and Lifestyle Analysis](images/11.png)
+![Sleep and Lifestyle Analysis](images/11.png)
 
 ---
 
@@ -240,19 +239,18 @@ This dashboard analyzes smartphone usage behavior based on device type and evalu
 ---
 
 # Behavioral Clustering Analytics
+
 This page identifies behavioral user groups using clustering analysis techniques. Users are categorized based on smartphone usage behavior, stress levels, productivity performance, and sleep quality.
 
 ![Behavioral Clustering Analytics](images/8.png)
-
 
 ![Stress Dashboard](images/8.png)
 
 ---
 
-# Predictive Modeling & Corrlation insights
+# Predictive Modeling & Correlation Insights
 
 This dashboard presents predictive analytics and correlation-based insights related to smartphone usage, stress, productivity, and sleep behavior.
-
 
 ![Sleep Dashboard](images/9.png)
 
@@ -276,5 +274,4 @@ The dashboard analysis reveals that excessive smartphone usage significantly imp
 - Matplotlib
 - Seaborn
 - Power BI / Looker Studio
-- Jupyter Notebook
 
